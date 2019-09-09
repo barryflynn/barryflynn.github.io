@@ -83,8 +83,10 @@ Extra large   ≥1200px   .col-xl-
 
 
 .projects{
+    
+   
     padding-top: 40px;
-     }
+}
 
 .archives{
     
@@ -162,9 +164,13 @@ br {
   
 }
 
+.scrapbody {
+	margin-top:100px;
+}
 
-
-
+.body3{
+	padding-top:100px;
+}
 
 
 h1{
@@ -1268,6 +1274,8 @@ p4{
    
     padding-left: 25px;
     padding-right: 25px;
+	
+
     
 }
 
@@ -1448,7 +1456,6 @@ line-height: 100px;
   margin-top: 80px;
   
 }
-
 
 
 .copywright{
