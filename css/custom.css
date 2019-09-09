@@ -44,7 +44,7 @@ src: url('/css/fonts/Moderat-Thin.ttf.ttf');
 }
 
 body{
-  background-color:blue;
+  background-color:white;
   /* Stops the body from going under the navbar */
 /*  padding-top: 65px;*/
 }
