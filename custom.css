@@ -165,7 +165,7 @@ br {
 }
 
 .scrapbody {
-	line-height: 40px;
+	padding-bottom:-100px;
 }
 
 .body3{
