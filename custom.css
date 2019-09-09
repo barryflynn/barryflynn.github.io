@@ -44,7 +44,7 @@ src: url('/css/fonts/Moderat-Thin.ttf.ttf');
 }
 
 body{
-  background-color:red;
+  background-color:lawngreen;
   /* Stops the body from going under the navbar */
 /*  padding-top: 65px;*/
 }
@@ -165,7 +165,7 @@ br {
 }
 
 .scrapbody {
-	padding-top:40px;
+	padding-top:20px;
 }
 
 .body3{
