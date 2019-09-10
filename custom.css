@@ -44,7 +44,7 @@ src: url('/css/fonts/Moderat-Thin.ttf.ttf');
 }
 
 body{
-  background-color:white;
+  background-color:orange;
   /* Stops the body from going under the navbar */
 /*  padding-top: 65px;*/
 }
@@ -71,7 +71,7 @@ Extra large   ≥1200px   .col-xl-
 .buztype {font-family:'Moderat-thin';
         font-size:32px; 
         color:black;
-        letter-spacing: 8px;
+        letter-spacing:2px;
         padding-right: 30px;
         margin-top: 70px;
         }
