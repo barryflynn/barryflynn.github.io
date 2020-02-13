@@ -41,47 +41,35 @@
           </ul>
         </div>
     </nav>
--->
-<div class = "container-fluid">
- 
-    
-    <div class ="col-sm-7 col sticky">
-    <a href = "home.html" class= "buztype type--link-container js anchor- link">
-    <span class = "type--link-indent">Barry Flynn</span></a>
-    </div>
-    
-    
-    
- 
+--><div id="desktop">
+  <div class="container-fluid">
 
-     
-    
-    
-    <div class = " pinned col-sm-12 ">
-    
-	<div class = "row">
-	 
-	<div class = "column">
-    <a href ="#index_work_link" class ="navtype type--link-container js anchor-link"> 
-    <span class ="type--link-indent">Work</span></a>
-    </div>
-	
-        
-    <div class = "column ">
-    <a href ="gallery.html" class="navtype type--link-container js anchor-link">
-    <span class ="type--link-indent">Photo</span></a>
-     </div>   
-    
-    <div class = "column ">
-    <a href ="scraps.html" class="navtype type--link-container js anchor-link">
-    <span class ="type--link-indent">Archive</span></a>
-     </div>   
-    
- 
-	
-	
+	 <div class="row">
+			
+	<div class= "col-sm-5">
+	<a class ="project-nav" href="index.html">Barry Flynn</a>
 	</div>
+			
+	<div class = "col-sm-5 accordion" onmouseover="onHover(0)" 
+		 onmouseout="onLeave(0)">	
+		<div id="nav-project-info"	class="about project-nav underlined ">About</div>
+	
+	<div class ="col-sm-1">
+	<a href = gallery.html class= "photo project-nav right offset-sm-5">Photo</a>	
 	</div>
+	
+		
+	<div class ="col-sm-1">
+	<a href = scraps.html class= " project-nav right offset-sm-6">Archive</a>	
+	</div>
+	
+		
+    
+	</div>	  
+	</div>	  
+		  
+	 </div>
+	
     
     
     
@@ -96,24 +84,39 @@
     
     
     
-     <div class = "body3">
     
 
       
-      <div class="row1">
+	  
     
       <a id= "index_work_link">
+      <div class="content column">
+      <a href="catalogue.html" target="">
+      <div class="content-overlay"></div>
+      <img src = 'img/corbusiercover.png' class ="content-image img-fluid">
+      <div class="content-details fadeIn-bottom">
+      <h3>Le Corbusier</h3>
+      <p>Catalogue</p>
+      </div>
+      </a>
+      </div>
+       </a>  
+     
       <div class="content column">
       <a href="motyf.html" target="">
       <div class="content-overlay"></div>
       <img src = 'img/motyf_image3.png' class ="content-image img-fluid">
       <div class="content-details fadeIn-bottom">
-      <h3>MOTyF</h3>
+      <h3>Motyf</h3>
       <p>Type Festival</p>
       </div>
       </a>
       </div>
-       </a>  
+     
+    
+  
+    
+       
      
       <div class="content column">
       <a href="skinhunger.html" target="">
@@ -121,38 +124,11 @@
       <img src = 'img/sample7.2.jpg' class ="content-image img-fluid">
       <div class="content-details fadeIn-bottom">
       <h3>Skin Hunger</h3>
-      <p>Film Titles</p>
-      </div>
-      </a>
-      </div>
-     </div>
-    
-     <div class="row1">
-    
-          <a id= "index_work_link">
-      <div class="content column">
-      <a href="banished.html" target="">
-      <div class="content-overlay"></div>
-      <img src = 'img/poster.jpg' class ="content-image img-fluid">
-      <div class="content-details fadeIn-bottom">
-      <h3>BANISHED</h3>
-      <p>Opera Poster </p>
-      </div>
-      </a>
-      </div>
-         </a>  
-     
-      <div class="content column">
-      <a href="skinhunger.html" target="">
-      <div class="content-overlay"></div>
-      <img src = 'img/orange.jpg' class ="content-image img-fluid">
-      <div class="content-details fadeIn-bottom">
-      <h3>ISTD</h3>
       <p>Book</p>
       </div>
       </a>
       </div>
-     </div>
+    
 		 
 		 
 	 <div class="row1">
@@ -161,7 +137,7 @@
       <div class="content column">
       <a href="banished.html" target="">
       <div class="content-overlay"></div>
-      <img src = 'img/poster.jpg' class ="content-image img-fluid">
+      <img src = 'img/banished_poster_flat.png' class ="content-image img-fluid">
       <div class="content-details fadeIn-bottom">
       <h3>BANISHED</h3>
       <p>Opera Poster </p>
@@ -171,12 +147,23 @@
          </a>  
      
       <div class="content column">
-      <a href="skinhunger.html" target="">
+      <a href="istd.html" target="">
       <div class="content-overlay"></div>
-      <img src = 'img/orange.jpg' class ="content-image img-fluid">
+      <img src = 'img/istd_image4..2.png' class ="content-image img-fluid">
       <div class="content-details fadeIn-bottom">
       <h3>ISTD</h3>
       <p>Book</p>
+      </div>
+      </a>
+      </div>
+		 
+		 <div class="content column">
+      <a href="visual01.html" target="">
+      <div class="content-overlay"></div>
+      <img src = 'img/V2.jpg' class ="content-image img-fluid">
+      <div class="content-details fadeIn-bottom">
+      <h3>Visual 01</h3>
+      <p>Grad Show</p>
       </div>
       </a>
       </div>
@@ -185,7 +172,7 @@
     
      
         
-    
+    </div>
     
     
     
@@ -258,7 +245,7 @@
         <div class="column">   
         <a href="gallery.html" class =" gallerypage boat offset-sm-1">
         <img src="img/archiveseven.jpg">
-        <span class = "type--link-indent">02.01.15</span></a>   
+        <span class = "type--link-indent">01.01.15</span></a>   
         </div>
                      
         </div> 
@@ -488,6 +475,7 @@
         
         
         
+<!--
    <div class= "container-fluid col-12">
         
    <div class = "row">  
@@ -496,14 +484,19 @@
    <img src = 'img/me.jpg' width ="7000px"; heith = "2000px"; class ="img-fluid">
    </div> 
       
-    <div class= "col-sm-6 offset-sm-6 biog">A multidisciplinary designer who enjoys working between the mediums of print and screen. I like to explore design through colour, geoetric and abstract forms. Simple and minimal elements frequently underscore my conceptual approach, and are key tools in the execution of my work.
+    <div class= "col-sm-3 offset-sm-1 biog">A multidisciplinary designer who enjoys working between the mediums of print and screen. I like to explore design through colour, geoetric and abstract forms. Simple and minimal elements frequently underscore my conceptual approach, and are key tools in the execution of my work.
     </div>
          
-    <div class= " col-sm-6 offset-sm-6 biog2">I engage with beauty and artistry across the design spectrum; film,fashion and photography all play a role in influencing my work. I approach every project with passion and dedication, applying meticulous detail, skill and craftsmanship whilst maintaining a reductive style to ensure impact.
+    <div class= " col-sm-3 offset-sm-2 biog2">I engage with beauty and artistry across the design spectrum; film,fashion and photography all play a role in influencing my work. I approach every project with passion and dedication, applying meticulous detail, skill and craftsmanship whilst maintaining a reductive style to ensure impact.
     </div>
         
     </div> 
-    </div> 
+    
+	
+	
+	
+	</div> 
+-->
    
        
        
@@ -558,7 +551,7 @@
             
             
         
-	  </div>
+	  <
     
     
     
