@@ -1,0 +1,19 @@
+@media only screen and (max-width:576px)
+{  
+
+
+    .buztype{font-family:'Moderat-Bold';
+        font-size:10px; 
+        color:black;}
+
+   h1{
+    font-family:'Moderat-Medium';
+    font-size:10px;
+    color: green;
+    
+   
+    
+    }
+
+
+ }
