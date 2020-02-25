@@ -2033,17 +2033,17 @@ color: black;}
 		
 	
 .push{
-/*	margin-left:-35px;*/
+	margin-left:-35px;
 	}
 	
 .pusharchive{
-	margin-left:-50px;
+	margin-left:700px;
 	}
 	
 	
 	
 .pushphoto{
-	margin-left:-40px;
+	margin-left:-50px;
 	}
 	
 	
@@ -2232,7 +2232,7 @@ color: black;}
 
 /*MOBILE*/
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 480px) {
       
 		.type--link-indent:hover, .type--link-indent.is-active, .type--link-indent.is-current {
         -moz-transform: translateX(0.15em);
