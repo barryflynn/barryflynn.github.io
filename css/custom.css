@@ -2377,7 +2377,7 @@ color: black;}
 	
 .twophotos { 
 	display: inline-block;
-	width:620px;
+	width:640px;
 	}
   
 		
@@ -2397,7 +2397,7 @@ color: black;}
 .content {
   position: relative;
   width: 700%;
-  max-width: 400px;
+  max-width: 420px;
   margin: auto;
   overflow:hidden;
   padding-top: 0px;
