@@ -2232,7 +2232,7 @@ color: black;}
 
 /*MOBILE*/
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 576px) {
       
 		.type--link-indent:hover, .type--link-indent.is-active, .type--link-indent.is-current {
         -moz-transform: translateX(0.15em);
