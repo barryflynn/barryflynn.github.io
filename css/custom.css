@@ -1957,7 +1957,6 @@ color: black;}
 @media screen and (max-width: 1200px){
 	
 	
-/*
 .content {
   position: relative;
   width: 700%;
@@ -1983,10 +1982,9 @@ color: black;}
 		display:none;
 	}
 	
-*/
 	
 	
-
+/*------nav------*/
 	
 	
 .project-nav:active {
@@ -2050,7 +2048,7 @@ color: black;}
 	
 	
 
-footer............
+/*footer............*/
 	
 
 .backup1{
