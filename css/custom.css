@@ -1704,7 +1704,7 @@ color: black;}
 .content {
   position: relative;
   width: 700%;
-  max-width: 1040px;
+  max-width: 1035px;
   margin: auto;
   overflow:hidden;
   padding-top: 0px;
@@ -1877,16 +1877,16 @@ color: black;}
 		
 	
 .push{
-	margin-left:50px;
+	margin-left:25px;
 	}
 	
 .pusharchive{
-	margin-left:50px;
+	margin-left:25px;
 	}
 	
 	
 .pushphoto{
-	margin-left:50px;
+	margin-left:25px;
 	}
 	
 	
