@@ -68,6 +68,8 @@ Extra large   ≥1200px   .col-xl-
 
 
 
+
+
 .scrapbody{
 	
 	padding-top: 40px;
@@ -623,58 +625,10 @@ h8{
 
 
 
-.balloons img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
 
-.balloons:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:350px;
-    margin-top:180px;
-    cursor:pointer;
-    
-}
    
 
-.orangeroom img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
 
-.orangeroom:hover img{
-    
-    display:block;
-    color: black;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:200px;
-    margin-top:80px;
-    cursor:pointer;
-    }
 
 
 
@@ -810,30 +764,7 @@ h8{
     cursor:pointer;
     }
 
-.tree img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
 
-.tree:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:-225px;
-    margin-top: -160px;
-    cursor:pointer;
-    }
 
 .umbrella img {
     display: block;
@@ -988,30 +919,7 @@ h8{
     cursor:pointer;
     }
 
-.newyork img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
 
-.newyork:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:50px;
-    margin-top:-260px;
-    cursor:pointer;
-    }
 
 .derek img {
     display: block;
@@ -1039,327 +947,6 @@ h8{
     }
 
 
-.light img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.light:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:20px;
-    margin-top:-200px;
-    cursor:pointer;
-    }
-
-
-.sea img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.sea:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:300px;
-    margin-top:-300px;
-    cursor:pointer;
-    }
-
-.spain img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.spain:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    
-    margin-top:-300px;
-    cursor:pointer;
-    
-    }
-
-.shells img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.shells:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:-150px;
-    margin-top:-260px;
-    cursor:pointer;}
-
-.gasmask img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.gasmask:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:300px;
-    margin-top:-260px;
-    cursor:pointer;}
-
-.horseshoe img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.horseshoe:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:420px;
-    margin-top:-260px;
-    cursor:pointer;}
-
-
-.derek2 img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.derek2:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:240px;
-    margin-top:-260px;
-    cursor:pointer;}
-
-.net img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-    
-    
-    
-}
-
-.net:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:-340px;
-    margin-top:-260px;
-    cursor:pointer;}
-
-
-.cloud img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.cloud:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:-150px;
-    margin-top:-200px;
-    cursor:pointer;}
-
-.sheil img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.sheil:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:-220px;
-    margin-top:-270px;
-    cursor:pointer;}
-
-.marble img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.marble:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:230px;
-    margin-top:-270px;
-    cursor:pointer;}
-
-.metropolis img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.metropolis:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:440px;
-    margin-top:-320px;
-    cursor:pointer;}
-
-.portmarnock img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
-
-.portmarnock:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:-320px;
-    margin-top:-260px;
-    cursor:pointer;}
 
 
 .centralpark img {
@@ -1386,29 +973,9 @@ h8{
     margin-top:-437px;
     cursor:pointer;}
 
-.paper img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
 
-.paper:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:-340px;
-    margin-top:-260px;
-    cursor:pointer;}
+
+
 
 .exit img {
     display: block;
@@ -1458,29 +1025,7 @@ h8{
     margin-top:-637px;
     cursor:pointer;}
 
-.bio img {
-    display: block;
-    width: 45%;
-    height: auto;
-    position:fixed;
-    z-index: 1;
-    opacity: 0;
-    cursor:pointer;
-}
 
-.bio:hover img{
-    
-    display:block;
-    width: 30%;
-    height:auto;
-    position:absolute;
-    z-index:-10;
-    opacity:1;
-    pointer-events:inherit;
-    align-content:center;
-    margin-left:430px;
-    margin-top:-370px;
-    cursor:pointer;}
 
 
 .about{
