@@ -68,8 +68,8 @@ Extra large   ≥1200px   .col-xl-
 
 
 
-
-
+@media screen and (max-width: 1800px){
+	
 .scrapbody{
 	
 	padding-top: 40px;
@@ -1133,11 +1133,6 @@ p4{
 
 
 
-.motyfpageimg1{
-    
-    
-}
-
 
 /*This is the gallery section:..............*/
 
@@ -1222,7 +1217,10 @@ a
 
 .short-text { display: none; }
 
+
 .twophotos { display: none;}
+
+
 
 .content {
   position: relative;
@@ -1487,8 +1485,14 @@ padding-top: 20px;
     -webkit-transform: translateX(0.25em);
     transform: translateX(0.25em); 
 color: black;}
+	
+	
+	
+	
+	
+}
 
-  
+ 
 
 
 
@@ -1529,7 +1533,7 @@ color: black;}
 	
 	
 	
-/*------nav------*/
+
 	
 	
 .project-nav:active {
@@ -1593,7 +1597,7 @@ color: black;}
 	
 	
 
-/*footer............*/
+
 	
 
 .backup1{
@@ -1693,6 +1697,7 @@ color: black;}
 
 
 
+/*
 
 @media screen and (max-width: 1024px){
 	
@@ -1722,6 +1727,7 @@ color: black;}
 		display:none;
 	}
 	}
+*/
 
 
 
@@ -1732,6 +1738,7 @@ color: black;}
 /*IPAD*/
 
 
+/*
 @media screen and (max-width: 992px){
 	
 	
@@ -1760,6 +1767,7 @@ color: black;}
 		display:none;
 	}
 	}
+*/
 
 
 
