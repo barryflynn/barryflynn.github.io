@@ -70,6 +70,7 @@ Extra large   ≥1200px   .col-xl-
 
 @media screen and (max-width: 1800px){
 	
+
 .scrapbody{
 	
 	padding-top: 40px;
@@ -77,10 +78,14 @@ Extra large   ≥1200px   .col-xl-
 .sticky{
     position:fixed;
     z-index: 200;
-    padding-top:10px;
+    padding-top:10px;}
 	
 	
-}
+	
+video{
+		max-width: 100%;
+        height: auto;}
+
 
 .container-fluid {
     width: 100%;
@@ -2071,9 +2076,6 @@ padding-right: 50px;
 	}
 	
 
-	video{
-		 max-width: 100%;
-        height: auto;}
 	
 
 .v1vids{
