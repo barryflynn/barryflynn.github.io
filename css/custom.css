@@ -85,6 +85,11 @@ Extra large   ≥1200px   .col-xl-
 .video{
 		max-width: 100%;
         height: auto;}
+	
+.image {
+		max-width: 100%;
+        height: auto;
+	}
 
 
 .container-fluid {
