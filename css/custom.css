@@ -2070,7 +2070,12 @@ padding-right: 50px;
 		padding-top:390px;
 	}
 	
+
+	video{
+		 max-width: 100%;
+        height: auto;}
 	
+
 .v1vids{
 	width: 500px;
 	height: 600px;
