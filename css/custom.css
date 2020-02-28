@@ -561,18 +561,6 @@ h8{
 
 
 
-.skinpics{
-    padding-top:10px;
-    
-}
-
-.skinpics1{
-    padding-top:80px;
-    
-}
-
-
-
 
 .homevideo{
     padding-top:10px;
@@ -1114,8 +1102,9 @@ a
 
 .content {
   position: relative;
-  width: 700%;
-  max-width: 720px;
+  width: 100%;
+  height: auto;
+  max-width:100%;
   margin: auto;
   overflow:hidden;
   padding-top: 0px;
@@ -1129,7 +1118,7 @@ a
 /*	background: rgba(0,0,0,0.7);*/
   position: absolute;
   height: 100%;
-  width: 400%;
+  width: 100%;
   left: 0;
   top: 0;
   bottom: 0;
@@ -1592,7 +1581,8 @@ color: black;}
 		
 .content {
   position: relative;
-  width: 700%;
+  width: 100%;
+  height: auto;
   max-width: 415px;
   margin: auto;s
   overflow:hidden;
