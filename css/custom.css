@@ -561,6 +561,18 @@ h8{
 
 
 
+.skinpics{
+    padding-top:10px;
+    
+}
+
+.skinpics1{
+    padding-top:80px;
+    
+}
+
+
+
 
 .homevideo{
     padding-top:10px;
@@ -1103,8 +1115,7 @@ a
 .content {
   position: relative;
   width: 100%;
-  height: auto;
-  max-width:100%;
+  max-width: 720px;
   margin: auto;
   overflow:hidden;
   padding-top: 0px;
@@ -1404,7 +1415,13 @@ color: black;}
 
 
 
+/*IPAD*/
 
+
+
+
+
+/*TABLET/
 
 
 
@@ -1582,7 +1599,6 @@ color: black;}
 .content {
   position: relative;
   width: 100%;
-  height: auto;
   max-width: 415px;
   margin: auto;s
   overflow:hidden;
