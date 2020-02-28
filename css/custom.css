@@ -86,6 +86,10 @@ Extra large   ≥1200px   .col-xl-
 		max-width: 100%;
         height: auto;}
 	
+.content-image {
+		max-width: 100%;
+        height: auto;
+	}
 
 
 .container-fluid {
@@ -1110,8 +1114,7 @@ a
 
 .content {
   position: relative;
-  width: 100%;
-  height:auto;
+  width: 700%;
   max-width: 720px;
   margin: auto;
   overflow:hidden;
@@ -1126,7 +1129,7 @@ a
 /*	background: rgba(0,0,0,0.7);*/
   position: absolute;
   height: 100%;
-  width: 100%;
+  width: 400%;
   left: 0;
   top: 0;
   bottom: 0;
@@ -1387,6 +1390,43 @@ color: black;}
 
 
 
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*MOBILE*/
 
 @media screen and (max-width: 576px) {
@@ -1483,7 +1523,6 @@ color: black;}
     font-size:16px;
 	line-height: 21px;
 	color:black;
-	padding-left:30px;
 	}
 		
 	
@@ -1553,8 +1592,7 @@ color: black;}
 		
 .content {
   position: relative;
-  width: 100%;
-  height:auto;
+  width: 700%;
   max-width: 415px;
   margin: auto;s
   overflow:hidden;
