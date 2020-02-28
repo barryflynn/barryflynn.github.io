@@ -86,10 +86,6 @@ Extra large   ≥1200px   .col-xl-
 		max-width: 100%;
         height: auto;}
 	
-.image {
-		max-width: 100%;
-        height: auto;
-	}
 
 
 .container-fluid {
@@ -1174,9 +1170,8 @@ a
 .content:hover .content-details{
   top: 60%;
   left: 50%;
-  opacity: 1;
+  opacity: 1;}
 
-}
 
 
 .content-details h3{
@@ -1190,7 +1185,13 @@ a
   text-transform: uppercase;}
 
 
+.content-image {
+		
+		max-width: 100%;
+        height: auto;
+	}
 
+	}
 
 .fadeIn-bottom{
   top: 80%;
@@ -1209,6 +1210,9 @@ a
 }
 
 
+
+	
+	
 .previous {
 	font-family: "Moderat-Regular";
 	font-size: 18px;
