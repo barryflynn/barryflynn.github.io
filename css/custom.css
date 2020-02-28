@@ -86,7 +86,7 @@ Extra large   ≥1200px   .col-xl-
 		max-width: 100%;
         height: auto;}
 	
-.image {
+.content-image {
 		max-width: 100%;
         height: auto;
 	}
@@ -1494,6 +1494,8 @@ color: black;}
 	
 
 }
+	
+
 
 .project-nav:hover {
 /*    border-bottom: 0.5px solid white;*/
