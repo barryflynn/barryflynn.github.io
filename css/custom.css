@@ -165,7 +165,7 @@ body {
     font-size:20px;
 	line-height: 21px;
 	color:black;
-	padding-left:75px;
+	padding-left:55px;
 	}
 
 
@@ -178,6 +178,7 @@ body {
     mix-blend-mode: difference;
     top: 15px;
     cursor: pointer;
+	
 }
 
 
@@ -994,6 +995,7 @@ h8{
 .motyfmove{
 	display:none;
 }
+
 
 
 
