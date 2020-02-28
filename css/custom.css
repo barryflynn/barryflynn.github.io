@@ -86,10 +86,6 @@ Extra large   ≥1200px   .col-xl-
 		max-width: 100%;
         height: auto;}
 	
-.content-image {
-		max-width: 100%;
-        height: auto;
-	}
 
 
 .container-fluid {
@@ -1114,7 +1110,8 @@ a
 
 .content {
   position: relative;
-  width: 700%;
+  width: 100%;
+  height:auto;
   max-width: 720px;
   margin: auto;
   overflow:hidden;
@@ -1383,49 +1380,6 @@ color: black;}
 }
 
  
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*IPAD*/
-
-
-
-
-
-/*TABLET/
-
-
-
-
 
 
 
