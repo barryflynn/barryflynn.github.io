@@ -559,50 +559,7 @@ h8{
     padding-top: 30px;
     }
 
-.motyfimg1{
-    padding-top: 1000px;
-}
 
-.motyfimg2{
-    padding-top:5px;
-}
-
-.motyfimg3{
-    padding-top:2px;
-    padding-left:-100px;
-}
-
-.motyfimg4{
-    padding-top:20px;
-    padding-left:-100px;
-}
-
-.motyfimg5{
-    padding-top:20px;
-    padding-left:-100px;
-}
-
-
-.motyfimg6{
-    padding-top:20px;
-    padding-left:-100px;
-}
-
-.motyfimg7{
-    padding-top:40px;
-    padding-left:-100px;
-}
-
-.motyfimg8{
-    padding-top:20px;
-    padding-left:-100px;
-}
-
-.motyfimg9{
-    padding-top:10px;
-    padding-left:-100px;
-    margin-bottom: 80px;
-}
 
 .skinpics{
     padding-top:10px;
@@ -632,15 +589,6 @@ h8{
     color:darkgrey;
     line-height:200px;
 }
-
-
-
-
-   
-
-
-
-
 
 
 .bird img {
@@ -957,8 +905,6 @@ h8{
     }
 
 
-
-
 .centralpark img {
     display: block;
     width:50%;
@@ -982,8 +928,6 @@ h8{
     margin-left:515px;
     margin-top:-437px;
     cursor:pointer;}
-
-
 
 
 
@@ -1045,78 +989,19 @@ h8{
 }
 
 
-.motyftitle {
-    
-    font-family:'Moderat-Medium';
-    font-size: 16px;
-    padding-top:14px;
-    color: black;}
+
 
 .motyfmove{
 	display:none;
 }
 
-.motyftitle2 {
-    
-    font-family:'Moderat-Medium';
-    font-size: 16px;
-    padding-top:19px;
-    color: black;
-    padding-left: 80px;
-   }
 
-.motyfdesc {
-    
-   font-family:'Moderat-Medium';
-    font-size: 32px;
-    line-height: 36px;
-    padding-top: 16px;
-     color: black;}
 
-.skindesc {
-    
-    font-family:'Moderat-Medium';
-    font-size: 32px;
-    line-height: 36px;
-    padding-top: 16px;
-    color: black;
-    padding-bottom:180px;}
-
-.biog {
-    
-    font-family:'Moderat-Light';
-    font-size: 16px;
-    line-height: 18px;
-    padding-top: 200px;
-	
-    color: black;
-   }
-
-.biog2 {
-    
-    font-family:'Moderat-Light';
-    font-size: 16px;
-    line-height: 18px;
-    padding-top: 33px;
-	margin-top: -450px;
-    color: black;
-   }
 .me{
     padding-top: 60px;
     padding-left: 30px;
     margin-bottom: 20px ;
 }
-
-
-
-.motyfdesc2 {
-    
-   font-family:'Moderat-Medium';
-    font-size: 32px;
-    line-height: 36px;
-    padding-top: 10px;
-    margin-bottom: 80px}
-
 
 
 
