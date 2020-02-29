@@ -731,7 +731,8 @@ br {
     font-size:18px;
 	line-height: 23px;
 	color:darkgrey;
-	padding-left: 10px;}
+	padding-left: 10px;
+	padding-top:20px}
 
 .media1{
     font-family:'Moderat-Regular';
@@ -743,17 +744,16 @@ br {
 	color:darkgrey;
     text-align: right !important;
     cursor: pointer;
-	z-index:100;}
-
-
-	
+	z-index:100;
+	padding-top:20px}
 
 .media2{
     font-family:'Moderat-Regular';
     font-size:18px;
 	line-height: 23px;
 	color:darkgrey;
-	padding-left:1025px;}
+	padding-left:1025px;
+	padding-top:20px}
 
 .archivemedia{
     font-family:'Moderat-Regular';
