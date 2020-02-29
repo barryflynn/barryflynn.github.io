@@ -70,17 +70,6 @@ Extra large   ≥1200px   .col-xl-
 
 @media screen and (max-width: 1800px){
 	
-
-.scrapbody{
-	
-	padding-top: 40px;
-}
-.sticky{
-    position:fixed;
-    z-index: 200;
-    padding-top:10px;}
-	
-	
 	
 .video{
 		max-width: 100%;
@@ -181,9 +170,6 @@ body {
 }
 
 
-.about{
-	padding-left:550px;
-}
 
 
 
@@ -1599,8 +1585,8 @@ color: black;}
 .content {
   position: relative;
   width: 100%;
-  height: auto;
-  margin: auto;s
+  height:auto;
+  margin:auto;
   overflow:hidden;
   padding-top: 0px;
   margin-bottom: 0px;}
