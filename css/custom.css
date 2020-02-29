@@ -714,12 +714,17 @@ br {
     padding-left: 15px;
     padding-right: 15px;}
 
+
+
 .column {
   float: left;
   width: 33.33%;
   width: 33.33%
  
 }
+
+
+
 
 .media{
     font-family:'Moderat-Regular';
@@ -740,6 +745,16 @@ br {
     cursor: pointer;
 	z-index:100;}
 
+
+	
+
+.media2{
+    font-family:'Moderat-Regular';
+    font-size:18px;
+	line-height: 23px;
+	color:darkgrey;
+	padding-left:1025px;}
+
 .archivemedia{
     font-family:'Moderat-Regular';
     font-size:18px;
@@ -756,15 +771,12 @@ a
 
 
 
-
 /*Project boxes .........................................................*/
 
-.short-text 
-	{ display: none; }
+.short-text { display: none; }
 
 
-.twophotos 
-	{ display: none;}
+.twophotos { display: none;}
 
 
 
@@ -858,7 +870,6 @@ a
 }
 
 
-
 .previous {
 	font-family: "Moderat-Regular";
 	font-size: 18px;
@@ -883,12 +894,18 @@ a
 	}
 	
 
+
+
 .move{
 	padding-left: 90px;
 	padding-top: 44px;
 }
 
 
+.copywright{
+    padding-left:560px;
+    color:lightgrey;
+}
 
 /* Clear floats after image containers */
 .row::after {
@@ -913,6 +930,9 @@ padding-top: 20px;
 }
 
  
+.footerspace1 {
+    height: 50px;
+} 
 
 .footerspace2 {
     height: 20px;
