@@ -732,7 +732,7 @@ br {
 	line-height: 23px;
 	color:darkgrey;
 	padding-left: 10px;
-	padding-top:20px}
+	}
 
 .media1{
     font-family:'Moderat-Regular';
@@ -745,7 +745,7 @@ br {
     text-align: right !important;
     cursor: pointer;
 	z-index:100;
-	padding-top:20px}
+	}
 
 .media2{
     font-family:'Moderat-Regular';
@@ -894,18 +894,13 @@ a
 	}
 	
 
-
-
 .move{
 	padding-left: 90px;
 	padding-top: 44px;
 }
 
 
-.copywright{
-    padding-left:560px;
-    color:lightgrey;
-}
+
 
 /* Clear floats after image containers */
 .row::after {
@@ -921,13 +916,6 @@ hr
   border: .5px solid black;
 }
 
-
-.archivetitle{
-    
-font-family: "Moderat-Bold";
-font-size: 16px;
-padding-top: 20px;
-}
 
  
 .footerspace1 {
