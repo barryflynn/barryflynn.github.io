@@ -695,73 +695,24 @@ br {
 
 
 
-
-.about{
-    padding-top:200px;
-    padding-bottom:150px;
-    margin-top:-200px;
-}
-
-
-
-
 .motyfmove{
 	display:none;
 }
 
 
-
-
-.me{
-    padding-top: 60px;
-    padding-left: 30px;
-    margin-bottom: 20px ;
-}
-
-
-
-p3{
-    
-    font-family: 'Moderat-Bold';
-    font-size: 16px;
-    
-}
-
-
-
-
-p4{
-    
-    font-family:'Moderat-Thin';
-    font-size:16px;
-}
-
-.education{
-    padding-top: 30px;
-}
-
-
-
-
+	
+	
+	
 
 /*This is the gallery section:..............*/
 
 
-.gallery{
-    padding-top:2px;
-    padding-left: 25px;
-    padding-right: 25px;
-    
-}
+
 
 .gallery1{
     margin-top:-16px;
     padding-left: 15px;
-    padding-right: 15px;
-    
-}
-
-
+    padding-right: 15px;}
 
 .column {
   float: left;
@@ -769,14 +720,6 @@ p4{
   width: 33.33%
  
 }
-
-.column2 {
-  float: left;
-  padding-bottom: 100px;
-}
-
-
-
 
 .media{
     font-family:'Moderat-Regular';
@@ -796,16 +739,6 @@ p4{
     text-align: right !important;
     cursor: pointer;
 	z-index:100;}
-
-
-	
-
-.media2{
-    font-family:'Moderat-Regular';
-    font-size:18px;
-	line-height: 23px;
-	color:darkgrey;
-	padding-left:1025px;}
 
 .archivemedia{
     font-family:'Moderat-Regular';
