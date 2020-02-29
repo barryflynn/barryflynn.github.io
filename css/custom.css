@@ -271,171 +271,31 @@ position: relative;
 }
 
 
+
 br {
     display: block;
     margin-bottom: 1px;
-    font-size:px;
     line-height: 1px;}
 
 
-
-	
-	
-.pinned1{
-    
-    
-    position:fixed;
-    z-index:100;
-    margin-left:1165px;
-    
-  
-}
-.bottomtext{
-	
-margin-top: 110px;
-margin-bottom: 210px;
-}
-.project1{
-	margin-bottom: 50px;
-	
-	
-}
-
-.projHeads1 {
-    margin-bottom: 20px;
-	margin-top:110px;
-}
-
-h2{
-	font-family:'Moderat-Regular';
-	font-size: 26px;
-	margin-top: 110px;
-}
-
-h9{
-	font-family:'Moderat-Light';
-	font-size: 16px;
-	margin-bottom:40px;
-	}
-
-h10{
-	font-family:'Moderat-Medium';
-    font-size:54px;
-    color:black;
-	line-height: 60px;}
-
-h11 {
-	font-family:'Moderat-Light';
-    font-size:54px;
-    color:black;
-	line-height: 60px;}
-
-
-h1{
-    font-family:'Moderat-Medium';
-    font-size:32px;
-    color:black;
-    margin-left: 100px;
-}
-
-
-
-.skin{
-    margin-top: -45px;
-    
-}
 
 .move{
     margin-top: -45px;
     
 }
-.motyf{
-    margin-top:200px;
-    margin-bottom:260px;
-    
-}
 
+	
 .motyfmobile{
 	padding-left: 75px;
 }
 
-MOTYFS{
-    margin-left: 200px;
-}
-h3{
-    font-family:'Moderat-Medium';
-    font-size:24px;
-    color:black;
-    padding-top: -100px;
- 
-    }
-
-h4{
-    font-family:'Moderat-Thin';
-    font-size:24px;
-    color:black;
-    line-height:30px;
-   
-    }
-h5{
-    font-family:'Moderat-Thin';
-    font-size:24px;
-    color:black;
-    line-height:30px;
-    
-    padding-top: 30px;
-    }
-
-.skinhunger{
-    margin-top:220px;
-    margin-bottom:280px;}
-    
-.skinhungervid{
-    padding-left: 10px;}
-
-
-h6{
-    font-family:'Moderat-Medium';
-    font-size:32px;
-    color:black;
-    padding-top: 30px;
-   
- 
-    }
-
-h7{
-    font-family:'Moderat-Thin';
-    font-size:24px;
-    color:black;
-    line-height:30px;
-    
-    }
-h8{
-    font-family:'Moderat-Thin';
-    font-size:24px;
-    color:black;
-    line-height:30px;
-
-    padding-top: 30px;
-    }
-
-
-
-.skinpics{
-    padding-top:10px;
-    
-}
-
-.skinpics1{
-    padding-top:80px;
-    
-}
-
-
+	
 .homevideo{
     padding-top:10px;
 
 }
+	
+
 
 .archive-dates{
 
@@ -443,6 +303,8 @@ h8{
 }
 
 
+	
+	
 .bird img {
     display: block;
     width: 50%;
