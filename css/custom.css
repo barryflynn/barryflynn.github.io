@@ -216,16 +216,11 @@ element.style {
 }
 
 
-
 .v1vids{
 	width: 1460px;
 }
 
 
-
-*, *::before, *::after {
-    box-sizing: border-box;
-}
 
 .padding-100 {
     padding-top: 20px;
@@ -241,24 +236,10 @@ element.style {
 
 
 
-.infopic{
-	padding-top: 80px;
-	margin-left:80px;
-	}
-
-
-
-
-
 .greyme{
 	color:darkgray;
 }
 
-.title{
-	font-family:'Moderat-bold';
-	font-size:64px;
-	
-}
 
 .col-6 {
     padding-top: 60px;
@@ -274,65 +255,21 @@ position: relative;
     padding-right: 15px;
     padding-left: 15px;
 
-/*
-p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
-*/
 
-.projectpadding{
-	padding-top: 40px;
-	padding-bottom:110px;
-	background-color: white;
-}
-.projects{
-    
-    font-family:"Moderat-Light";
-    font-size:16px;
-    padding-left: 18px;
-    letter-spacing: 4px;
-    padding-top: 220px;
-}
+
 
 .archives{
-    
     font-family:"Moderat-Bold";
     font-size:16px;
     padding-left: 18px;
-	color: white;
-	
-}
+	color: white;}
 
 
-
-hr.new4 {
-  border: 3px solid red;
-}
-
-
-.flynn{
-    font-family:"Moderat-Bold";
-    font-size:16px;
-    padding-left: 18px;
-    }
-
-
-.navtype{
-    font-family:'Moderat-Regular';
-    font-size: 24 px;
-    color:black;
-    line-height: 30px;
-    letter-spacing: 2px;
-    
-    }
 
 .space21{
 	margin-top: -2px;
 }
+
 
 br {
     display: block;
@@ -341,19 +278,22 @@ br {
     line-height: 1px;
 }
 
+
+	
 .spaceinfo{
 	height:35px;
 }
+
 .infopic{
 	padding-left: 20px;
 }
+
 .pinned{
-    
     padding-top:12px;
     position:fixed;
     z-index:100;
-    padding-left: 1160px;
-}
+    padding-left: 1160px;}
+
 .back {
 	font-family:'Moderat-Light';
     font-size: 16px;
