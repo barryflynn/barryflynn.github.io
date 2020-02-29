@@ -275,50 +275,12 @@ br {
     display: block;
     margin-bottom: 1px;
     font-size:px;
-    line-height: 1px;
-}
+    line-height: 1px;}
+
 
 
 	
-.spaceinfo{
-	height:35px;
-}
-
-.infopic{
-	padding-left: 20px;
-}
-
-.pinned{
-    padding-top:12px;
-    position:fixed;
-    z-index:100;
-    padding-left: 1160px;}
-
-.back {
-	font-family:'Moderat-Light';
-    font-size: 16px;
-    color:black;
-    line-height: 30px;
-    letter-spacing: 2px;
-	padding-right: 40px;
-}
-
-
-.behance{
-    
-    padding-top: 48px;
-}
-
-
-.linkedin {
-    
-    padding-top: 28px;
-}
-
-.instagram {
-    
-    padding-top: 68px;
-    }
+	
 .pinned1{
     
     
