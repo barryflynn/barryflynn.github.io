@@ -989,6 +989,7 @@ color: black;}
 	
 }
 
+/*
 @media screen and (max-width: 1200px){
 	
 .type--link-indent:hover, .type--link-indent.is-active, .type--link-indent.is-current {
@@ -1170,6 +1171,7 @@ color: black;}
 
 
 }
+*/
 /*MOBILE*/
 
 @media screen and (max-width: 576px) {
