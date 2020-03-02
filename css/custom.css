@@ -926,7 +926,9 @@ hr
     max-width: 16.666667%;}
 
 	
-	
+.archives{
+	color: white;
+	font-family: 'Moderat-Regular'}	
 
 .backup1{
 	color: rgba(0,0,0,0.3) !important;
@@ -1256,9 +1258,6 @@ color: black;}
 	}
   
 		
-.archives{
-	color: white;
-	font-family: 'Moderat-Regular'}
 		
 		
 .white {
