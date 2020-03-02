@@ -778,7 +778,9 @@ a
 
 .twophotos { display: none;}
 
-
+.topmargin{
+		margin-top: -16px;
+	}
 
 .content {
   position: relative;
@@ -1044,6 +1046,9 @@ color: black;}
 		display:none;}
 
 
+.topmargin{
+	 display:none;
+	}
 
 
 	
