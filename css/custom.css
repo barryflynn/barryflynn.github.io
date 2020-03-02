@@ -782,7 +782,7 @@ a
 
 .content {
   position: relative;
-  width:72%;
+  width:50%;
   margin: auto;
   overflow:hidden;
   padding-top: 0px;
@@ -1000,7 +1000,7 @@ color: black;}
 	
 .content {
   position: relative;
-  width:72%;
+  width:50%;
   height:auto;
   margin:auto;
   overflow:hidden;
@@ -1091,7 +1091,7 @@ color: black;}
 	
 .content {
   position: relative;
-  width:72%;
+  width:50%;
   height:auto;
   margin:auto;
   overflow:hidden;
