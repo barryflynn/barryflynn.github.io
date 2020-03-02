@@ -299,7 +299,13 @@ br {
 
 .archive-dates{
 
-  display:none;
+  padding-bottom:30px;
+  margin-top:40px;
+  padding-left:220px;
+  font-family:'Moderat-Regular';
+  font-size:180px;
+  color:black;
+  line-height:200px;
 }
 
 
@@ -807,12 +813,9 @@ a
   -moz-transition: all 0.4s ease-in-out 0s;
   transition: all 0.4s ease-in-out 0s;}
 
-
-
 .content:hover .content-overlay{
   opacity: 10;
 }
-
 
 .content-details {
   position: absolute;
@@ -839,7 +842,6 @@ a
 
 }
 
-
 .content-details h3{
   font-family:"Moderat-Medium";
   font-size:42px;
@@ -849,9 +851,6 @@ a
   letter-spacing: 0.10em;
   margin-bottom: 2.6em;
   text-transform: uppercase;}
-
-
-
 
 .fadeIn-bottom{
   top: 80%;
@@ -869,7 +868,6 @@ a
   left: 80%;
 }
 
-
 .previous {
 	font-family: "Moderat-Regular";
 	font-size: 18px;
@@ -882,7 +880,6 @@ a
 	
 	}
 	
-
 .next {
 	font-family: "Moderat-Regular";
 	font-size: 18px;
@@ -891,24 +888,18 @@ a
 	text-align: right !important;
     cursor: pointer;
 	padding-left:425px;
-	}
-	
+	}	
 
 .move{
 	padding-left: 90px;
 	padding-top: 44px;
 }
 
-
-
-
-/* Clear floats after image containers */
 .row::after {
   content: "";
   clear: both;
   display:table;
 }
-
 
 
 hr 
@@ -984,10 +975,7 @@ hr
     transform: translateX(0.25em); 
 color: black;}
 	
-	
-	
-	
-	
+
 }
 
 /*
@@ -1173,7 +1161,6 @@ color: black;}
 
 }
 */
-/*MOBILE*/
 
 @media screen and (max-width: 576px) {
       
