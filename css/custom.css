@@ -778,9 +778,7 @@ a
 
 .twophotos { display: none;}
 
-.topmargin{
-		margin-top: -16px;
-	}
+
 
 .content {
   position: relative;
@@ -996,7 +994,7 @@ color: black;}
 	
 .content {
   position: relative;
-  width: 100%;
+  width:100%;
   height:auto;
   margin:auto;
   overflow:hidden;
@@ -1046,10 +1044,8 @@ color: black;}
 		display:none;}
 
 
-.topmargin{
-	 display:none;
-	}
-
+.spacenav{
+		display:none;}
 
 	
 .archivemedia{
