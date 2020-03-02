@@ -1074,7 +1074,89 @@ color: black;}
 
 }
 
+@media screen and (max-width: 992px){
+	
+.content {
+  position: relative;
+  width:100%;
+  height:auto;
+  margin:auto;
+  overflow:hidden;
+  padding-top: 0px;
+  margin-bottom: 0px;}
+		
+.content-details h3{
+  font-family:"Moderat-Medium";
+  font-size:36px;
+  line-height: 100px;
+  color:white;
+  font-weight: 500;
+  letter-spacing: 0.10em;
+  margin-bottom: 2em;
+  text-transform: uppercase;}
+	
+.content:hover .content-overlay{
+  opacity: 10;
+}
 
+
+.content-details {
+  position: absolute;
+  text-align: center;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+	
+}
+
+.content:hover .content-details{
+  top: 60%;
+  left: 50%;
+  opacity: 1;
+
+}
+
+
+.content-details h3{
+  font-family:"Moderat-Medium";
+  font-size:42px;
+  line-height: 100px;
+  color:white;
+  font-weight: 500;
+  letter-spacing: 0.10em;
+  margin-bottom: 2.6em;
+  text-transform: uppercase;}
+
+
+
+
+.fadeIn-bottom{
+  top: 80%;
+}
+
+.fadeIn-top{
+  top: 20%;
+}
+
+.fadeIn-left{
+  left: 20%;
+}
+
+.fadeIn-right{
+  left: 80%;
+}
+
+
+}
 /*MOBILE*/
 
 @media screen and (max-width: 576px) {
