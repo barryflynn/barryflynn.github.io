@@ -783,7 +783,6 @@ a
 .content {
   position: relative;
   width:100%;
-  max-width: 720px;
   margin: auto;
   overflow:hidden;
   padding-top: 0px;
