@@ -783,7 +783,8 @@ a
 .content {
   position: relative;
   width: 100%;
-  max-width: 720px;
+  height: 100%;
+/*  max-width: 720px;*/
   margin: auto;
   overflow:hidden;
   padding-top: 0px;
@@ -917,26 +918,12 @@ hr
 }
 
 
- 
-.footerspace1 {
-    height: 50px;
-} 
-
 .footerspace2 {
     height: 20px;
 } 
 
-.footerspace3 {
-    height: 6px;
-} 
 
-.footerspace4 {
-    height: 12px;
-} 
 
-.footerindex{
-	background-color:#efefef;
-}
 .sh{
 	background-color: black;
 	width: 1480px;
@@ -946,44 +933,10 @@ hr
     -webkit-box-flex: 0;
     -ms-flex: 0 0 16.666667%;
     flex: 0 0 16.666667%;
-    max-width: 16.666667%;
-}
+    max-width: 16.666667%;}
 
-
-
-
-
-
-.bazz{
-	padding-left:10px;
-}
-.right {
-    padding-left:110px;
-	text-align: right !important;
-}
-
-.right1 {
-    padding-left:190px;
-}
-
-.right2 {
-    padding-left:250px;
-}
-
-
-.offset-sm-8 {
-    margin-left: 66.666667%;
-}
-
-
-
-
-
-
-.pages{
-	padding-top: 1px;
-}
-
+	
+	
 
 .backup1{
 	color: rgba(0,0,0,0.3) !important;
@@ -1037,55 +990,6 @@ color: black;}
 	
 	
 }
-
- 
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*IPAD*/
-
-
-
-
-
-/*TABLET/
-
-
-
-
-
-
-
-
 
 
 
@@ -1228,11 +1132,7 @@ color: black;}
 .short-text { 
 	display: inline-block; }
 	
-	
 
-		
-	
-	
 .twophotos { 
 	display: inline-block;
 	width:652px;
@@ -1421,23 +1321,4 @@ padding-right: 50px;
 	
 	
 }		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
