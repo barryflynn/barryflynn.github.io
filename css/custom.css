@@ -783,8 +783,7 @@ a
 .content {
   position: relative;
   width: 100%;
-  height: 100%;
-/*  max-width: 720px;*/
+  max-width: 720px;
   margin: auto;
   overflow:hidden;
   padding-top: 0px;
@@ -1093,16 +1092,16 @@ color: black;}
 		
 	
 .push{
-	margin-left:45px;
+	margin-left:35px;
 	}
 	
 .pusharchive{
-	margin-left:45px;
+	margin-left:35px;
 	}
 	
 	
 .pushphoto{
-	margin-left:45px;
+	margin-left:35px;
 	}
 	
 	
