@@ -1071,6 +1071,41 @@ color: black;}
 
 @media screen and (max-width: 992px){
 	
+	
+	.content {
+  position: relative;
+  width: 50%;
+  height:auto;
+  margin:auto;
+  overflow:hidden;
+  padding-top: 0px;
+  margin-bottom: -16px;}
+		
+.content-details h3{
+  font-family:"Moderat-Medium";
+  font-size:36px;
+  line-height: 100px;
+  color:white;
+  font-weight: 500;
+  letter-spacing: 0.10em;
+  margin-bottom: 2em;
+  text-transform: uppercase;}
+
+.fadeIn-bottom{
+  top: 80%;
+}
+
+.fadeIn-top{
+  top: 40%;
+}
+
+.fadeIn-left{
+  left: 20%;
+}
+
+.fadeIn-right{
+  left: 80%;
+}
 
 	.archive-dates{
 		display: none;
