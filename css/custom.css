@@ -75,11 +75,6 @@ Extra large   ≥1200px   .col-xl-
 		max-width: 100%;
         height: auto;}
 	
-.content-image {
-		max-width: 100%;
-        height: auto;
-	}
-
 
 .container-fluid {
     width: 100%;
@@ -306,10 +301,7 @@ br {
   font-size:180px;
   color:black;
   line-height:200px;
-}
-
-
-	
+}	
 	
 .bird img {
     display: block;
@@ -792,10 +784,7 @@ a
   margin: auto;
   overflow:hidden;
   padding-top: 0px;
-  margin-bottom: 0px;
-  margin-top: -16px;
-  
-   }
+  margin-bottom: 0px;}
 
 .content .content-overlay {
   background:#b2bcc5;
@@ -996,7 +985,7 @@ color: black;}
   margin:auto;
   overflow:hidden;
   padding-top: 0px;
-  margin-bottom: -16px;}
+  }
 		
 .content-details h3{
   font-family:"Moderat-Medium";
