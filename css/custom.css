@@ -70,6 +70,9 @@ Extra large   ≥1200px   .col-xl-
 
 @media screen and (max-width: 1800px){
 	
+.spacenav{
+		display:none;
+	}
 	
 .video{
 		max-width: 100%;
