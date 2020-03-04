@@ -70,6 +70,10 @@ Extra large   ≥1200px   .col-xl-
 
 @media screen and (max-width: 1800px){
 	
+.posters{
+		margin-left:20px;
+	}
+	
 .spacenav{
 		display:none;
 	}
