@@ -72,6 +72,7 @@ Extra large   ≥1200px   .col-xl-
 	
 .posters{
 		padding-left:20px;
+	   padding-right: 20px;
 	}
 	
 .spacenav{
@@ -132,9 +133,8 @@ body {
 	bottom:3px;}
 	
 	
-	.whitebarplay{
-		height:50px;
-	}
+.whitebarplay{
+		height:50px;}
 
 .project-nav:hover {
 /*    border-bottom: 0.5px solid white;*/
