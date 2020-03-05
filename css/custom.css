@@ -1207,19 +1207,21 @@ color: black;}
 	line-height: 21px;
 	color:black;
 	}
-		
+	.poster {
+		display:none;
+	}		
 	
 .push{
-	margin-left:5px;
+	margin-left:35px;
 	}
 	
 .pusharchive{
-	margin-left:5px;
+	margin-left:35px;
 	}
 	
 	
 .pushphoto{
-	margin-left:5px;
+	margin-left:35px;
 	}
 	
 .whitebar{
