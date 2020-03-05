@@ -72,7 +72,9 @@ Extra large   ≥1200px   .col-xl-
 	
 .posters{
 		padding-left:25px;
-	   padding-right: 20px;
+	    padding-right: 20px;
+	    padding-top:25px;
+	    padding-bottom:25px;
 	}
 	
 .spacenav{
@@ -1209,20 +1211,20 @@ color: black;}
 		
 	
 .push{
-	margin-left:10px;
+	margin-left:5px;
 	}
 	
 .pusharchive{
-	margin-left:10px;
+	margin-left:5px;
 	}
 	
 	
 .pushphoto{
-	margin-left:10px;
+	margin-left:5px;
 	}
 	
 .whitebar{
-		height:60px;
+		height:70px;
 		background-color:white;
 	}
 	
