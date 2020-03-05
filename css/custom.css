@@ -972,23 +972,26 @@ color: black;}
 .fadeIn-right{
   left: 80%;
 }
-
+	
+.archive-dates{
+		display:none;
+	}
 
 .push{
-	margin-left:15px;
+	margin-left:5px;
 	}
 	
 .pusharchive{
-	margin-left:15px;
+	margin-left:5px;
 	}
 	
 	
 .pushphoto{
-	margin-left:15px;
+	margin-left:5px;
 	}	
 
 .pushplay{
-	margin-left:15px;
+	margin-left:5px;
 	}
 	
 .short-text { 
