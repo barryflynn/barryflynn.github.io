@@ -973,8 +973,22 @@ color: black;}
   left: 80%;
 }
 
+
+.push{
+	margin-left:35px;
+	}
+	
+.pusharchive{
+	margin-left:35px;
+	}
+	
+	
+.pushphoto{
+	margin-left:35px;
+	}	
+
 .pushplay{
-		padding-left:200px;
+	margin-left:35px;
 	}
 }
 
