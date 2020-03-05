@@ -134,7 +134,9 @@ body {
     mix-blend-mode: difference;
 	bottom:3px;}
 	
-	
+.spaceposter{
+		height:10px;
+	}	
 
 .project-nav:hover {
 /*    border-bottom: 0.5px solid white;*/
