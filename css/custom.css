@@ -998,6 +998,10 @@ color: black;}
 	display: inline-block; }
 }
 
+.barryflynn{
+	display:none;
+}
+
 @media screen and (max-width: 992px){
 	
 	
