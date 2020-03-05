@@ -990,6 +990,9 @@ color: black;}
 .pushplay{
 	margin-left:15px;
 	}
+	
+.short-text { 
+	display: inline-block; }
 }
 
 @media screen and (max-width: 992px){
