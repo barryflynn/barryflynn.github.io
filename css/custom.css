@@ -974,6 +974,22 @@ color: black;}
 }
 
 
+.push{
+	margin-left:15px;
+	}
+	
+.pusharchive{
+	margin-left:15px;
+	}
+	
+	
+.pushphoto{
+	margin-left:15px;
+	}	
+
+.pushplay{
+	margin-left:15px;
+	}
 }
 
 @media screen and (max-width: 992px){
