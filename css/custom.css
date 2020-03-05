@@ -994,6 +994,10 @@ color: black;}
 	margin-left:5px;
 	}
 	
+.bf { 
+	display: inline-block; }
+}
+
 
 
 @media screen and (max-width: 992px){
