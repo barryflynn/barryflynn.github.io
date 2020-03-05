@@ -73,8 +73,8 @@ Extra large   ≥1200px   .col-xl-
 .posters{
 		padding-left:25px;
 	    padding-right: 20px;
-	    padding-top:25px;
-	    padding-bottom:25px;
+	    padding-top:5px;
+	    padding-bottom:5px;
 	}
 	
 .spacenav{
@@ -85,7 +85,6 @@ Extra large   ≥1200px   .col-xl-
 		max-width: 100%;
         height: auto;}
 	
-
 .container-fluid {
     width: 100%;
     padding-right: 15px;
@@ -97,7 +96,6 @@ Extra large   ≥1200px   .col-xl-
 .medium-text{
 	display:none;
 }
-
 
 .container-fluid {
     width: 100%;
@@ -117,7 +115,6 @@ Extra large   ≥1200px   .col-xl-
     margin-left: -15px;
 }
 
-
 body {
     font-family:'Moderat-Regular';
     font-style:Bold;
@@ -125,8 +122,6 @@ body {
     font-size: 20px;
     line-height: 25px;
     -webkit-font-smoothing: antialiased;}
-
-
 
 .project-nav:active {
 /*    border-bottom: 3px solid transparent;*/
@@ -144,7 +139,6 @@ body {
 /*    mix-blend-mode: difference;*/
 }
 
-
 .navbar{
     font-family:'Moderat-Regular';
     font-size:20px;
@@ -154,7 +148,6 @@ body {
 	
 	}
 
-
 .navbar1{
     font-family:'Moderat-Regular';
     font-size:20px;
@@ -162,8 +155,6 @@ body {
 	color:black;
 	padding-left:90px;
 	}
-
-
 
 .project-nav {
 	
@@ -177,30 +168,22 @@ body {
 .white {
     background-color: white;
 	margin-top:-16px;}
-
-	
 	
 .space10 {
     height: 8px;
 }
-
-	
 	
 .spaceten {
     height: 8px;
 	}
 
-
 .space12 {
     height:110px;
 }
 
-
-
 .space11 {
     height: 40px;
 }
-
 
 .description {
 	padding-left:666px;
@@ -208,42 +191,31 @@ body {
 	padding-top:140px;
 }
 
-
 img {
     vertical-align: middle;
     border-style: none;}
-
-
 
 element.style {
     max-height: 0px;
 }
 
-
 .v1vids{
 	width: 1460px;
 }
-
-
 
 .padding-100 {
     padding-top: 20px;
 	padding-bottom: 80px;
 }
 
-
-
 .mephoto{
 	padding-top: 65px;
 	padding-left:130px;
 	}
 
-
-
 .greyme{
 	color:darkgray;
 }
-
 
 .col-6 {
     padding-top: 60px;
@@ -251,16 +223,11 @@ element.style {
 	
 }
 
-
-
 position: relative;
     width: 100%;
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
-
-
-
 
 .archives{
     font-family:"Moderat-Bold";
@@ -268,27 +235,21 @@ position: relative;
     padding-left: 18px;
 	color: white;}
 
-
-
 .space21{
 	margin-top: -2px;
 }
-
-
 
 br {
     display: block;
     margin-bottom: 1px;
     line-height: 1px;}
 
-
-
 .move{
     margin-top: -45px;
     
 }
 
-	
+
 .motyfmobile{
 	padding-left: 75px;
 }
