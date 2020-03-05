@@ -71,10 +71,10 @@ Extra large   ≥1200px   .col-xl-
 @media screen and (max-width: 1800px){
 	
 .posters{
-		padding-left:25px;
+		padding-left:35px;
 	    padding-right: 20px;
 	    padding-top:5px;
-	    padding-bottom:5px;
+	    
 	}
 	
 .spacenav{
@@ -249,19 +249,15 @@ br {
     
 }
 
-
 .motyfmobile{
 	padding-left: 75px;
 }
-
 	
 .homevideo{
     padding-top:10px;
 
 }
 	
-
-
 .archive-dates{
 
   padding-bottom:30px;
@@ -298,7 +294,6 @@ br {
     cursor:pointer;
     }
 
-
 .girl img {
     display: block;
     width: 50%;
@@ -323,7 +318,6 @@ br {
     margin-top: -240px;
     cursor:pointer;
     }
-
 
 .boat img {
     display: block;
@@ -351,8 +345,6 @@ br {
     cursor:pointer;
     }
 
-
-
 .mayabay img {
     display: block;
     width: 50%;
@@ -377,7 +369,6 @@ br {
     margin-top: -420px;
     cursor:pointer;
     }
-
 
 .mayabay1 img {
     display: block;
@@ -404,8 +395,6 @@ br {
     cursor:pointer;
     }
 
-
-
 .umbrella img {
     display: block;
     width: 50%;
@@ -430,7 +419,6 @@ br {
     margin-top:20px;
     cursor:pointer;
     }
-
 
 .wheel img {
     display: block;
@@ -457,7 +445,6 @@ br {
     cursor:pointer;
     }
 
-
 .mountain img {
     display: block;
     width: 50%;
@@ -482,7 +469,6 @@ br {
     margin-top:-180px;
     cursor:pointer;
     }
-
 
 .karenann img {
     display: block;
@@ -559,8 +545,6 @@ br {
     cursor:pointer;
     }
 
-
-
 .derek img {
     display: block;
     width: 50%;
@@ -586,7 +570,6 @@ br {
     cursor:pointer;
     }
 
-
 .centralpark img {
     display: block;
     width:50%;
@@ -610,8 +593,6 @@ br {
     margin-left:515px;
     margin-top:-437px;
     cursor:pointer;}
-
-
 
 .exit img {
     display: block;
@@ -661,28 +642,14 @@ br {
     margin-top:-637px;
     cursor:pointer;}
 
-
-
 .motyfmove{
 	display:none;
 }
-
-
-	
-	
-	
-
-/*This is the gallery section:..............*/
-
-
-
 
 .gallery1{
     margin-top:-16px;
     padding-left: 15px;
     padding-right: 15px;}
-
-
 
 .column {
   float: left;
@@ -690,9 +657,6 @@ br {
   width: 33.33%
  
 }
-
-
-
 
 .media{
     font-family:'Moderat-Regular';
@@ -730,23 +694,17 @@ br {
 	color:darkgrey;
 	padding-left:1025px;}
 
-
 a 
 {
     color: black;
     
 }
 
-
-
 /*Project boxes .........................................................*/
 
 .short-text { display: none; }
 
-
 .twophotos { display: none;}
-
-
 
 .content {
   position: relative;
@@ -860,18 +818,14 @@ a
   display:table;
 }
 
-
 hr 
  {
   border: .5px solid black;
 }
 
-
 .footerspace2 {
     height: 20px;
 } 
-
-
 
 .sh{
 	background-color: black;
@@ -883,7 +837,6 @@ hr
     -ms-flex: 0 0 16.666667%;
     flex: 0 0 16.666667%;
     max-width: 16.666667%;}
-
 	
 .archives{
 	color: white;
@@ -896,7 +849,6 @@ hr
     cursor: pointer;
 	z-index:100;
     }
-
 
 .type--link-indent {archive
   position: relative;
@@ -936,7 +888,6 @@ hr
     transform: translateX(0.25em); 
 color: black;}
 	
-
 }
 
 @media screen and (max-width: 1200px){
