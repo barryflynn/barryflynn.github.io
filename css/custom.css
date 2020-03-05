@@ -1026,6 +1026,16 @@ color: black;}
 
 }
 
+@media screen and (max-width: 600px){
+	
+	
+.backup1{
+		display:none;
+	}
+	
+	
+}
+
 @media screen and (max-width: 576px) {
       
 		.type--link-indent:hover, .type--link-indent.is-active, .type--link-indent.is-current {
