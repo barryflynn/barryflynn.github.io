@@ -1020,7 +1020,10 @@ color: black;}
 .navbar5{
 		display:none;
 	}
-	
+
+.navbar4{
+		display:inherit;
+	}
 }
 
 @media screen and (max-width: 992px){
