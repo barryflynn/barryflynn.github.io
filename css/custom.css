@@ -988,7 +988,20 @@ color: black;}
 .bf{ 
 	display: inline-block; }
 	
-
+.push{
+	margin-left:40px;
+	}
+	
+.pusharchive{
+	margin-left:40px;
+	}
+	
+	
+.pushphoto{
+	margin-left:40px;
+	}
+	
+}
 
 
 
@@ -1140,7 +1153,8 @@ color: black;}
 	line-height: 21px;
 	color:black;
 	}
-	.poster {
+	
+.poster {
 		display:none;
 	}		
 	
@@ -1193,7 +1207,9 @@ color: black;}
 	width:652px;
 	}
   
-		
+	.homevideo{
+		display:none;
+	}		
 		
 		
 .white {
