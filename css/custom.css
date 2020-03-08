@@ -977,10 +977,14 @@ color: black;}
 		display:none;
 	}
 
-
-	
+.homenav12{
+		display:none;
+	}
+.media2{
+		display:none;
+	}	
 .bf { 
-	display:none; }
+	display: inline-block; }
 }
 
 
