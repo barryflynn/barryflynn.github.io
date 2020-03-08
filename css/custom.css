@@ -1004,7 +1004,11 @@ color: black;}
 .pushplay{
 	padding-left:600px;
 	}	  
-	  
+
+.whitebar{
+		height:70px;
+		background-color:white;
+	}
 	
 }
 
@@ -1046,7 +1050,7 @@ color: black;}
   left: 80%;
 }
 
-	.archive-dates{
+.archive-dates{
 		display: none;
 	}
 
