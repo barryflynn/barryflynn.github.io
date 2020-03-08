@@ -989,26 +989,24 @@ color: black;}
 	display: inline-block; }
 	
 .push{
-	margin-left:10px;
+	padding-right:100px;
 	}
 	
 .pusharchive{
-	margin-left:10px;
+	padding-right:100px;
 	}
 	
 	
 .pushphoto{
-	margin-left:10px;
+	padding-right:100px;
 	}
 	
 .pushplay{
-	margin-left:10px;
+	padding-left:100px;
 	}	  
 	  
 	
 }
-
-
 
 @media screen and (max-width: 992px){
 	
