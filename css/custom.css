@@ -879,6 +879,10 @@ hr
   transition-duration: 0.18s;
   transition-timing-function: ease;
   transition-delay: 0s; }
+	
+.navbar4{
+		display:none;
+	}
   
 .type--link-indent:hover, .type--link-indent.is-active, .type--link-indent.is-current {
     -moz-transform: translateX(0.25em);
@@ -1012,7 +1016,10 @@ color: black;}
 .footerspace2{
 			display:none;
 		}
-		
+
+.navbar5{
+		display:none;
+	}
 	
 }
 
