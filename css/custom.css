@@ -980,11 +980,17 @@ color: black;}
 .homenav12{
 		display:none;
 	}
+	
 .media2{
 		display:none;
-	}	
-.bf { 
+	}
+	
+.bf{ 
 	display: inline-block; }
+	
+.short-text{
+		display:inline-block;
+	}
 }
 
 
