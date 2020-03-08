@@ -989,17 +989,22 @@ color: black;}
 	display: inline-block; }
 	
 .push{
-	margin-left:40px;
+	margin-left:10px;
 	}
 	
 .pusharchive{
-	margin-left:40px;
+	margin-left:10px;
 	}
 	
 	
 .pushphoto{
-	margin-left:40px;
+	margin-left:10px;
 	}
+	
+.pushplay{
+	margin-left:10px;
+	}	  
+	  
 	
 }
 
@@ -1207,7 +1212,7 @@ color: black;}
 	width:652px;
 	}
   
-	.homevideo{
+.homevideo{
 		display:none;
 	}		
 		
