@@ -1009,6 +1009,26 @@ color: black;}
 .navbar4{
 		display:inherit;
 	}
+
+.push{
+	margin-left:40px;
+	}
+	
+.pusharchive{
+	margin-left:40px;
+	}
+	
+	
+.pushphoto{
+	margin-left:40px;
+	}	
+	
+.pushplay{
+	margin-left:40px;
+	}	
+	
+	
+	
 }
 
 @media screen and (max-width: 992px){
