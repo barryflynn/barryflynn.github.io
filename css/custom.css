@@ -1219,7 +1219,7 @@ body {
 	line-height:0.5px;
 	color:black;
 	padding-left: 20px;
-	padding-top:20px;
+	padding-top:0px;
 	}
 	
 .media1 {
@@ -1317,7 +1317,7 @@ body {
 	background-color: white;}		
 	
 .spacenavhome{
-	height:50px;
+	height:40px;
 	background-color: white;}
 			
 .medium-text { 
