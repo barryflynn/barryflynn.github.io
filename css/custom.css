@@ -1010,7 +1010,9 @@ color: black;}
 		display:inherit;
 	}
 	
-	
+.short-text{
+		display:none;
+	}	
 
 .push{
 	padding-left:20px;
@@ -1030,9 +1032,9 @@ color: black;}
 	}	
 	
 .description {
-	padding-left:366px;
-	padding-bottom:60px;
-	padding-top:70px;
+	padding-left:400px;
+	padding-bottom:80px;
+	padding-top:80px;
 }	
 	
 }
