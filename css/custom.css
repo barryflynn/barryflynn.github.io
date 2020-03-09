@@ -1249,7 +1249,9 @@ color: black;}
 	height:55px;
 	background-color: white;}	
 		
-	
+	.navbar4{
+		display:none;
+	}
 	
 .spacenavhome{
 	height:50px;
