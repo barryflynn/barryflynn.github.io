@@ -990,13 +990,12 @@ color: black;}
 	}
 	
 .bf{ 
-	display: inline-block; }
-	
-	  
-
+	display: inline-block; 
+	}
+		  
 .spacenavhome{
-	height:40px;
-	background-color: white;}
+	display:none;
+	}
 	
 .footerspace2{
 			display:none;
