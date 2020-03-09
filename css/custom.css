@@ -1102,10 +1102,14 @@ color: black;}
 .links{
 	margin-top:10px;	
 	}
+	
+.space21{
+		height:-4px;
+	}
 		
 .move{
     margin-top:-100px;
-	padding-left: 100px;
+	padding-left: 150px;
     }
 	
 .previous {
