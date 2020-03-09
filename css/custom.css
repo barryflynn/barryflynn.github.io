@@ -1140,6 +1140,10 @@ body {
 .footerspace{
 		display:none;
 	}
+	
+.v1vids{
+	width: 1460px;
+}
 		
 }
 
@@ -1464,9 +1468,7 @@ padding-right: 50px;
 .v1vids{
 	width: 500px;
 	height: 600px;
-	background-color: black;
-/*	margin-top: 35px;*/
-	
+	background-color: black;	
 }
 
 .v1vid2{
