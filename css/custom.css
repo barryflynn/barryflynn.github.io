@@ -1100,7 +1100,12 @@ color: black;}
 	}
 	
 .space21{
-	margin-top: -5px;}
+	margin-top: -6px;
+	}
+	
+.move{
+    margin-top: -45px;
+    }
 	
 .previous {
 	font-family: "Moderat-Regular";
@@ -1110,7 +1115,7 @@ color: black;}
 	text-align: right !important;
     cursor: pointer;
 	padding-left:425px;
-	margin-top: -100px;
+	
 	
 	
 	}
@@ -1123,7 +1128,7 @@ color: black;}
 	text-align: right !important;
     cursor: pointer;
 	padding-left:425px;
-	margin-top: -100px;
+	
 	}
 	
 }
