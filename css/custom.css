@@ -1014,13 +1014,8 @@ color: black;}
 /*    border-bottom: 3px solid transparent;*/
     color: white;
     mix-blend-mode: difference;
-	bottom:3px;
+	bottom:3px;}
 	
-
-}
-	
-
-
 .project-nav:hover {
 /*    border-bottom: 0.5px solid white;*/
 	color: white;
@@ -1044,6 +1039,14 @@ color: black;}
 	line-height: 21px;
 	color:black;
 	padding-left:15px;}
+
+
+.navbar1{
+    font-family:'Moderat-Regular';
+    font-size:16px;
+	line-height: 21px;
+	color:black;
+	}
 
 .push{
 	padding-left:20px;
@@ -1178,13 +1181,8 @@ color: black;}
 /*    border-bottom: 3px solid transparent;*/
     color: white;
     mix-blend-mode: difference;
-	bottom:3px;
+	bottom:3px;}
 	
-
-}
-	
-
-
 .project-nav:hover {
 /*    border-bottom: 0.5px solid white;*/
 	color: white;
