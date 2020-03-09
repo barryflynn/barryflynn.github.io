@@ -994,7 +994,8 @@ color: black;}
 	}
 		  
 .spacenavhome{
-	display:none;
+	height:40px;
+	background-color: white;
 	}
 	
 .navbar5{
