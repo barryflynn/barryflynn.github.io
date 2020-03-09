@@ -235,6 +235,10 @@ br {
     display: block;
     margin-bottom: 1px;
     line-height: 1px;}
+	
+.skinblack{
+		background-color:black;
+	}
 
 .move{
     margin-top: -45px;
