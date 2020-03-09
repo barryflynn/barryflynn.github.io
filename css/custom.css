@@ -1077,7 +1077,7 @@ color: black;}
 .media{
     font-family:'Moderat-Regular';
     font-size:16px;
-	line-height:0.3px;
+	line-height:0.5px;
 	color:darkgrey;
 	padding-left: 20px;
 	padding-top:18px;}
@@ -1095,8 +1095,8 @@ color: black;}
 	z-index:100;
 	}
 
-.links{
-	margin-top:6px;	
+.mediaindex{
+		display:none;
 	}
 	
 .space21{
