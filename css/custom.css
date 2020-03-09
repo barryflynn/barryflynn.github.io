@@ -687,6 +687,10 @@ br {
 	color:darkgrey;
 	padding-left:1025px;}
 
+.whitebody{
+		background-color: white;
+	}
+	
 a 
 {
     color: black;
@@ -1065,6 +1069,10 @@ color: black;}
 	padding-left:315px;
 	}	
 	
+.whitebody{
+		background-color: white;
+	}
+	
 .description {
 	padding-left:460px;
 	padding-bottom:90px;
@@ -1092,7 +1100,7 @@ color: black;}
 	z-index:100;
 	}
 	
-	.space21{
+.space21{
 	margin-top: -2px;}
 	
 .previous {
