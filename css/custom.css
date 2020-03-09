@@ -1098,13 +1098,17 @@ color: black;}
     cursor: pointer;
 	z-index:100;
 	}
+
+.links{
+	padding-top:10px;	
+	}
 	
 .space21{
 	margin-top:-10px;
 	}
 	
 .move{
-    margin-top: -45px;
+    margin-top: -65px;
     }
 	
 .previous {
