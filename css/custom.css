@@ -1077,7 +1077,7 @@ color: black;}
 .media{
     font-family:'Moderat-Regular';
     font-size:16px;
-	line-height:2px;
+	line-height:0.8px;
 	color:darkgrey;
 	padding-left: 20px;
 	}
