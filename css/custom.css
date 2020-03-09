@@ -1098,6 +1098,11 @@ body {
 .mediaindex{
 		display:none;
 	}
+
+.spacenavhome{
+	height:40px;
+	background-color:white;
+	}
 	
 .space21{
 		margin-top:-4px;
