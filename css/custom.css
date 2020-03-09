@@ -1100,15 +1100,12 @@ color: black;}
 	}
 
 .links{
-	margin-top:20px;	
+	margin-top:5px;	
 	}
-	
-.space21{
-	margin-top:-2px;
-	}
-	
+		
 .move{
     margin-top:-100px;
+	padding-left: 100px;
     }
 	
 .previous {
