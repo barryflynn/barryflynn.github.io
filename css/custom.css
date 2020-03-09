@@ -1011,20 +1011,20 @@ color: black;}
 	}
 
 .push{
-	padding-left:80px;
-	}
-	
-.pusharchive{
-	padding-left:120px;
+	padding-left:150px;
 	}
 	
 	
 .pushphoto{
-	padding-left:160px;
+	padding-left:200px;
 	}	
 	
+.pusharchive{
+	padding-left:250px;
+	}
+	
 .pushplay{
-	padding-left:200px;
+	padding-left:300px;
 	}	
 	
 	
