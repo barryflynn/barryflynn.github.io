@@ -1292,6 +1292,10 @@ body {
 	color:black;
 	}
 	
+.navbar5{
+		display:none;
+	}
+	
 .poster {
 		display:none;
 	}		
