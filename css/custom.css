@@ -125,7 +125,6 @@ body {
     mix-blend-mode: difference;
 	bottom:3px;}
 	
-
 .project-nav:hover {
 /*    border-bottom: 0.5px solid white;*/
 	color: white;
@@ -1010,6 +1009,14 @@ color: black;}
 		display:none;
 	}
 	
+body {
+    font-family:'Moderat-Regular';
+    font-style:Bold;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 25px;
+    -webkit-font-smoothing: antialiased;}
+	
 .project-nav:active {
 /*    border-bottom: 3px solid transparent;*/
     color: white;
@@ -1196,15 +1203,14 @@ color: black;}
 
 @media screen and (max-width: 576px) {
       
-		.type--link-indent:hover, .type--link-indent.is-active, .type--link-indent.is-current {
+.type--link-indent:hover, .type--link-indent.is-active, .type--link-indent.is-current {
         -moz-transform: translateX(0.15em);
         -o-transform: translateX(0.15em);
         -ms-transform: translateX(0.15em);
         -webkit-transform: translateX(0.15em);
         transform: translateX(0.15em); }
 		
-		
-/*		..............footer.................*/
+
 .media{
     font-family:'Moderat-Regular';
     font-size:18px;
@@ -1214,14 +1220,14 @@ color: black;}
 	padding-top:10px;
 	}
 	
-.media1 {display: none;}
+.media1 {
+	display: none;
+	}
 		
-
 .media2{
-		display:none;}
+		display:none;
+	}
 
-
-	
 .archivemedia{
     font-family:'Moderat-Regular';
     font-size:18px;
@@ -1231,14 +1237,9 @@ color: black;}
 	margin-top:-15px;
 	}
 		
-	
-	
-
 .footerspace2{
 			display:none;
-		}
-		
-		
+		}		
 		
 /*		..............Navbar.................*/
 
@@ -1252,15 +1253,12 @@ color: black;}
 
 }
 	
-
-
 .project-nav:hover {
 /*    border-bottom: 0.5px solid white;*/
 	color: white;
 /*    mix-blend-mode: difference;*/
 }
-	
-	
+		
 .project-nav {
 	
     position: fixed;
@@ -1277,7 +1275,6 @@ color: black;}
 	line-height: 21px;
 	color:black;
 	padding-left:15px;}
-
 
 .navbar1{
     font-family:'Moderat-Regular';
@@ -1298,7 +1295,6 @@ color: black;}
 	margin-left:40px;
 	}
 	
-	
 .pushphoto{
 	margin-left:40px;
 	}
@@ -1313,27 +1309,23 @@ color: black;}
     padding-left: 15px;
     padding-right: 15px;
 	padding-top: 15px;}
-	
-	
-	
+		
 .spacenav{
 	height:55px;
-	background-color: white;}	
-		
-	
+	background-color: white;}		
 	
 .spacenavhome{
 	height:50px;
 	background-color: white;}
-	
-		
+			
 .medium-text { 
-	display:none; }
+	display:none; 
+	}
 	
 .short-text { 
-	display: inline-block; }
+	display: inline-block; 
+	}
 	
-
 .twophotos { 
 	display: inline-block;
 	width:652px;
@@ -1342,16 +1334,14 @@ color: black;}
 .homevideo{
 		display:none;
 	}		
-		
-		
+				
 .white {
     background-color: white;
 	margin-top: -35px;
 	
 }
-		
-		
-/*	................project images hover...................*/
+			
+/*	.............project images hover............*/
 		
 .content {
   position: relative;
@@ -1394,7 +1384,7 @@ color: black;}
 }
 
 		
-/*..............About Page.............................................		*/
+/*..............About Page........................*/
 		
 
 .mephoto{
@@ -1415,26 +1405,23 @@ display:none;
 	padding-bottom:50px;
 	padding-top:110px;
 }		
-	
-	
-	
+		
 .whitebody{
 			background-color: white;
 		}				
-		
-		
+				
 .space10 {
- height: 6px;}
-	
-	
+ height: 6px;
+	}
+		
 .spaceten {
- margin-top:-200px;}
-		
-		
+ margin-top:-200px;
+	}
+				
 .space11 {
- height: 20px;}	
-		
-		
+ height: 20px;
+	}	
+			
 .mobiledetails{
 display:none;
 		}		
@@ -1449,7 +1436,6 @@ display:none;
 	padding-top: 10px;
 	padding-bottom: 20px;}
 	
-	
 .next {
   
     font-family: "Moderat-Regular";
@@ -1462,26 +1448,18 @@ display:none;
 	padding-top: 4px;
 	padding-bottom: 32px;
 }
-		
-
-		
+				
 .motyfmobile{
 	padding-left: 35px;
 }		
-		
-		
-					 
+							 
 .mediaindex{
 padding-right: 50px;
 		}
 		
-
-	
 .homevid{
 		padding-top:390px;
 	}
-	
-	
 
 .v1vids{
 	width: 500px;
@@ -1491,34 +1469,29 @@ padding-right: 50px;
 	
 }
 
-	
 .v1vid2{
 	padding-top:970px;
 	margin-bottom: -200px}
 	
-
 .fourscreens{
 	display: none;
 	}
-	
-	
+		
 .sh{
     width: 500px;
 	background-color: black;
 }	
-	
-	
+		
 .space20{
 	padding-top: 30px;
 	}	
 	
-	.barryflynn{
+.barryflynn{
 		display: none;
 		letter-spacing: 0.2em
 	}
 	
-	
-	
+
 	
 }		
 
