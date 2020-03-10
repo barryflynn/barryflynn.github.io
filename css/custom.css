@@ -905,6 +905,12 @@ color: black;}
         -ms-transform: translateX(0.15em);
         -webkit-transform: translateX(0.15em);
         transform: translateX(0.15em); }
+	
+position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
 
 .row {
     display: -webkit-box;
