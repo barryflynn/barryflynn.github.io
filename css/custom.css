@@ -894,9 +894,6 @@ color: black;}
 	
 }
 
-
-
-
 @media screen and (max-width: 1200px){
 	
 .type--link-indent:hover, .type--link-indent.is-active, .type--link-indent.is-current {
@@ -1003,7 +1000,7 @@ position: relative;
 	}
 		  
 .spacenavhome{
-	height: 40px;
+	height: 50px;
 	background-color:white;
 	}
 	
