@@ -1300,6 +1300,10 @@ body {
 	color:black;
 	}
 	
+	.navbar5{
+		display:none;
+	}
+	
 .poster {
 		display:none;
 	}		
@@ -1307,7 +1311,6 @@ body {
 .push{
 	margin-left:40px;
 	}
-	
 
 .pushphoto{
 	margin-left:-60px;
