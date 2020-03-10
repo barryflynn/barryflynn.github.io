@@ -1252,7 +1252,6 @@ body {
 		
 /*		..............Navbar.................*/
 
-
 .project-nav:active {
 /*    border-bottom: 3px solid transparent;*/
     color: white;
@@ -1326,7 +1325,7 @@ body {
 	padding-top: 15px;}
 		
 .spacenav{
-	height:55px;
+	padding-top:55px;
 	background-color: white;}		
 	
 .spacenavhome{
