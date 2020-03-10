@@ -1290,6 +1290,18 @@ body {
 		display:none;
 	}		
 	
+.push{
+	margin-left:40px;
+	}
+	
+.pusharchive{
+	margin-left:20px;
+	}
+	
+.pushphoto{
+	margin-right:20px;
+	}
+	
 .whitebar{
 		height:70px;
 		background-color:white;
