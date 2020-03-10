@@ -1444,7 +1444,7 @@ display:none;
 	color: rgba(0,0,0,0.3) !important;
     color:darkgrey;
     cursor: pointer;
-	padding-left:380px;
+	padding-left:350px;
 	padding-top: 10px;
 	padding-bottom: 20px;}
 	
@@ -1456,7 +1456,7 @@ display:none;
 	color:darkgrey;
     text-align: right !important;
     cursor: pointer;
-	padding-left:380px;
+	padding-left:350px;
 	padding-top: 4px;
 	padding-bottom: 32px;
 }
