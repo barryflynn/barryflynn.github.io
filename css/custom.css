@@ -905,6 +905,16 @@ color: black;}
         -ms-transform: translateX(0.15em);
         -webkit-transform: translateX(0.15em);
         transform: translateX(0.15em); }
+
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}	
 	
 .content {
   position: relative;
