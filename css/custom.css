@@ -1158,9 +1158,6 @@ body {
 		
 }
 
-
-
-
 @media screen and (max-width: 992px){
 	
 	
@@ -1306,11 +1303,11 @@ body {
 	}
 	
 .pusharchive{
-	margin-left:5px;
+	margin-left:-80px;
 	}
 	
 .pushphoto{
-	margin-left:5px;
+	margin-left:-50px;
 	}
 	
 .whitebar{
