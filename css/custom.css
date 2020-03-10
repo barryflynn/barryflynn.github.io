@@ -1329,6 +1329,10 @@ body {
 	display: inline-block; 
 	}
 	
+.full-text{
+		display:none;
+	}
+	
 .twophotos { 
 	display: inline-block;
 	width:652px;
