@@ -993,11 +993,7 @@ color: black;}
 	background-color:white;
 	}
 	
-.poster{
-		display:none;
-	}
 
-	
 .short-text{
 		display:none;
 	}
@@ -1041,7 +1037,7 @@ body {
 
 .project-nav {
 	position: fixed;
-    z-index: 100;
+    z-index: 80;
     color: white;
     mix-blend-mode: difference;
     top: 15px;
