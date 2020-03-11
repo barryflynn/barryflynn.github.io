@@ -1099,7 +1099,7 @@ body {
     font-family:'Moderat-Regular';
     font-size:16px;
 	line-height:2px;
-	color:darkgrey;
+	color:black;
 	padding-left: 20px;
 	padding-top:18px;
 	}
@@ -1110,7 +1110,7 @@ body {
 	color:darkgrey;
 	padding-left:100px;
     color: rgba(0,0,0,0.3) !important;
-	color:darkgrey;
+	color:black;
     text-align: right !important;
     cursor: pointer;
 	z-index:100;
@@ -1249,9 +1249,7 @@ body {
 	color:black;
 	}
 	
-.navbar5{
-		display:none;
-	}
+
 	
 .poster {
 		display:none;
@@ -1352,7 +1350,7 @@ body {
   left: 80%;
 }
 			 
- .archive-dates{
+.archive-dates{
 
    display: none;
 }
