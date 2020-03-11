@@ -883,6 +883,12 @@ hr
 .navbar4{
 		display:none;
 	}
+
+.bf{
+		display:none;
+	}
+
+
   
 .type--link-indent:hover, .type--link-indent.is-active, .type--link-indent.is-current {
     -moz-transform: translateX(0.25em);
@@ -891,6 +897,7 @@ hr
     -webkit-transform: translateX(0.25em);
     transform: translateX(0.25em); 
 color: black;}
+	
 	
 }
 
@@ -1004,7 +1011,7 @@ position: relative;
 	background-color:white;
 	}
 	
-.navbar5{
+.poster{
 		display:none;
 	}
 
