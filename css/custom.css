@@ -1151,6 +1151,13 @@ body {
 .v1vids{
 	width:1200px;
 }
+
+.archivemedia{
+    font-family:'Moderat-Regular';
+    font-size:16px;
+	line-height: 23px;
+	color:darkgrey;
+	padding-left:825px;}
 		
 }
 
@@ -1282,9 +1289,7 @@ body {
 	margin-top: -35px;
 	
 }
-			
-/*	.............project images hover............*/
-		
+	
 .content {
   position: relative;
   width: 100%;
@@ -1293,16 +1298,11 @@ body {
   overflow:hidden;
   padding-top: 0px;
   margin-bottom: 0px;}
-		
-		 
+			 
 .archive-dates{
 
    display: none;
 }
-
-		
-/*..............About Page........................*/
-		
 
 .mephoto{
 display:none;
@@ -1312,11 +1312,7 @@ display:none;
     padding-top: 25px;
 	margin-bottom: -240px;
 }
-		
-		
-/*.............Project Pages......................*/
-		
-		
+				
 .description {
 	padding-left:45px;
 	padding-bottom:65px;
@@ -1405,7 +1401,7 @@ padding-right: 50px;
 	padding-top: 30px;
 	}	
 	
-.barryflynn{
+.archivemedia{
 		display: none;
 		letter-spacing: 0.2em
 	}
