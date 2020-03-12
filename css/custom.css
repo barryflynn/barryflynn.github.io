@@ -164,6 +164,11 @@ body {
 	display:inline;
 	}
 
+.a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
 .white {
     background-color: white;
 	margin-top:-16px;}
