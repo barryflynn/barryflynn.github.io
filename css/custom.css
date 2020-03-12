@@ -155,11 +155,11 @@ body {
     top: 15px;
     cursor: pointer;}
 	
-.li {
+li {
 	float:left;
 	}
 	
-.a {
+a {
   display: block;
   padding: 80px;
   background-color: #dddddd;
