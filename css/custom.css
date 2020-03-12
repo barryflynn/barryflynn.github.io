@@ -70,9 +70,7 @@ Extra large   ≥1200px   .col-xl-
 
 @media screen and (max-width: 1800px){
 
-.navmove{
-	padding-right:800px;
-	}
+
 	
 .posters{
 		padding-left:30px;
@@ -163,6 +161,12 @@ body {
 .li {
 	display:inline;
 	}
+	
+.a {
+  display: block;
+  padding: 80px;
+  background-color: #dddddd;
+}
 
 .white {
     background-color: white;
@@ -1001,7 +1005,6 @@ color: black;}
 	background-color:white;
 	}
 	
-
 .short-text{
 		display:none;
 	}
