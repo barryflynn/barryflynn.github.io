@@ -71,7 +71,11 @@ Extra large   ≥1200px   .col-xl-
 @media screen and (max-width: 1800px){
 
 .navbar-nav{
-		padding-right:1200px;
+    padding-right:1200px;
+	font-family:'Moderat-Regular';
+    font-size:18px;
+	line-height: 21px;
+	color:black;
 	}
 	
 .posters{
@@ -147,7 +151,6 @@ body {
     font-size:18px;
 	line-height: 21px;
 	color:black;
-	padding-left:90px;
 	}
 
 .project-nav {
