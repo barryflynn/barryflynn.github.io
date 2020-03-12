@@ -158,10 +158,16 @@ body {
     top: 15px;
     cursor: pointer;}
 	
-.li {
+ li {
 	float:left;
 	}
 	
+ li a {
+  
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
 .white {
     background-color: white;
