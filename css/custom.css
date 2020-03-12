@@ -70,7 +70,9 @@ Extra large   ≥1200px   .col-xl-
 
 @media screen and (max-width: 1800px){
 
-
+.navmove{
+		padding-left:200px;
+	}
 	
 .posters{
 		padding-left:30px;
