@@ -71,7 +71,7 @@ Extra large   ≥1200px   .col-xl-
 @media screen and (max-width: 1800px){
 
 .navbar-nav{
-		padding-right:800px;
+		padding-right:1200px;
 	}
 	
 .posters{
@@ -140,7 +140,7 @@ body {
     font-size:18px;
 	line-height: 21px;
 	color:black;
-	padding-right:50px}
+	padding-right:80px}
 
 .navbar1{
     font-family:'Moderat-Regular';
@@ -162,12 +162,6 @@ body {
 	float:left;
 	}
 	
-.li a {
-  
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
 
 .white {
     background-color: white;
