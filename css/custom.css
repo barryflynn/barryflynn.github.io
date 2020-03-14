@@ -880,10 +880,6 @@ hr
   transition-timing-function: ease;
   transition-delay: 0s; }
 	
-.navbar4{
-		display:none;
-	}
-
 .bf{
 		display:none;
 	}
@@ -1146,7 +1142,20 @@ body {
 
 @media screen and (max-width: 576px) {
       
-
+.navbar{
+    font-family:'Moderat-Regular';
+    font-size:16px;
+	line-height: 21px;
+	color:black;}
+	
+.navbar-nav{
+    font-family:'Moderat-Regular';
+    font-size:16px;
+	line-height: 21px;
+	color:black;
+	padding-left:15px; 
+	}
+	
 .media{
     font-family:'Moderat-Regular';
     font-size:18px;
