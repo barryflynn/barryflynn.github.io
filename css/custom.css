@@ -1241,6 +1241,22 @@ body {
 	color:black;
 	padding-left:90px;
 	}
+	
+.about{
+	padding-left:20px; 	
+	}
+	
+.photo{
+	padding-left:20px; 	
+	}
+	
+.about{
+	padding-left:10px; 	
+	}
+	
+.photo{
+	padding-left:10px; 	
+	}
 		
 .poster {
 		display:none;
