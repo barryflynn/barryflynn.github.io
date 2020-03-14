@@ -1058,12 +1058,8 @@ body {
 	
 	}
 
-.navbar1{
-    font-family:'Moderat-Regular';
-    font-size:16px;
-	line-height: 21px;
-	color:black;
-	padding-left:90px;
+.li {
+	float:left;
 	}
 
 .project-nav {
