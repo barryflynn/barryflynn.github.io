@@ -78,15 +78,13 @@ Extra large   ≥1200px   .col-xl-
 	color:black;
 	}
 	
-.bazznav{
-	padding-left:-20px;
-	}
+
 .about{
 	padding-left:70px; 	
 	}
 	
 .photo{
-	padding-left:50px; 	
+	padding-left:40px; 	
 	}
 	
 .archive{
@@ -163,6 +161,7 @@ body {
     font-size:18px;
 	line-height: 21px;
 	color:black;
+	padding-left:20px;
 	
 	}
 
