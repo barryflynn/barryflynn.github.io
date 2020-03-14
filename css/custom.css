@@ -71,11 +71,11 @@ Extra large   ≥1200px   .col-xl-
 @media screen and (max-width: 1800px){
 
 .navbar-nav{
-  
-	font-family:'Moderat-Regular';
+    font-family:'Moderat-Regular';
     font-size:18px;
 	line-height: 21px;
 	color:black;
+	padding-left:25px; 
 	}
 	
 
@@ -1239,19 +1239,10 @@ body {
     font-size:16px;
 	line-height: 21px;
 	color:black;
+
 	}
 	
-.about{
-	padding-left:120px; 	
-	}
-	
-.photo{
-	padding-left:200px; 	
-	}
-	
-.archive{
-	padding-left:280px; 	
-	}
+
 	
 .other{
 	display: none; 	
