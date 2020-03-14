@@ -1241,7 +1241,11 @@ body {
 	padding-left:15px;}
 	
 .navbar-nav{
-	display: inline;
+ 
+	font-family:'Moderat-Regular';
+    font-size:18px;
+	line-height: 21px;
+	color:black;
 	}
 	
 .about{
