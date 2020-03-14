@@ -1198,26 +1198,6 @@ body {
     top: 15px;
     cursor: pointer;
 }	
-
-.navbar{
-    font-family:'Moderat-Regular';
-    font-size:16px;
-	line-height: 21px;
-	color:black;
-	padding-right:50px;}
-	
-.navbar-nav{
-    font-family:'Moderat-Regular';
-    font-size:16px;
-	line-height: 21px;
-	color:black;
-	padding-left:150px; 
-	}
-		
-.archive{
-	padding-left:200px; 	
-	}	
-	
 	
 .other{
 	display: none; 	
