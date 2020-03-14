@@ -146,7 +146,6 @@ body {
 	color:black;
 	padding-right:30px;}
 
-
 .project-nav {
 	position:fixed;
     z-index: 100;
@@ -1154,6 +1153,10 @@ body {
 	line-height: 21px;
 	color:black;
 	padding-left:100px; 
+	}
+	
+.li {
+	float:left;
 	}
 	
 .media{
