@@ -1056,11 +1056,9 @@ body {
     font-size:16px;
 	line-height: 21px;
 	color:black;
-	padding-left:25px; 
+	padding-left:20px; 
 	}
 	
-
-
 .project-nav {
 	position: fixed;
     z-index: 80;
@@ -1232,16 +1230,14 @@ body {
     font-family:'Moderat-Regular';
     font-size:16px;
 	line-height: 21px;
-	color:black;
-	padding-left:15px;}
+	color:black;}
 	
 .navbar-nav{
-    
     font-family:'Moderat-Regular';
     font-size:16px;
 	line-height: 21px;
 	color:black;
-
+	padding-left:20px; 
 	}
 	
 
