@@ -71,7 +71,7 @@ Extra large   ≥1200px   .col-xl-
 @media screen and (max-width: 1800px){
 
 .navbar-nav{
-    padding-right:1000px;
+    padding-right:800px;
 	font-family:'Moderat-Regular';
     font-size:18px;
 	line-height: 21px;
