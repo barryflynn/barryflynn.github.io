@@ -75,7 +75,7 @@ Extra large   ≥1200px   .col-xl-
     font-size:16px;
 	line-height: 21px;
 	color:black;
-	padding-left:25px; 
+	padding-left:30px; 
 	}
 	
 
@@ -96,10 +96,6 @@ Extra large   ≥1200px   .col-xl-
 	padding-left:30px; 	
 	}
 */
-	
-.homenav12{
-		padding-right:20px;
-	}
 	
 .posters{
 		padding-left:30px;
@@ -164,9 +160,10 @@ body {
 
 .navbar{
     font-family:'Moderat-Regular';
-    font-size:18px;
+    font-size:16px;
 	line-height: 21px;
-	color:black;}
+	color:black;
+	padding-right:20px;}
 
 .navbar1{
     font-family:'Moderat-Regular';
