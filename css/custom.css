@@ -1253,15 +1253,15 @@ body {
 	}
 	
 .photo{
-	padding-left:160px; 	
-	}
-	
-.archive{
 	padding-left:200px; 	
 	}
 	
+.archive{
+	padding-left:280px; 	
+	}
+	
 .other{
-	padding-left:240px; 	
+	display: none; 	
 	}
 		
 .poster {
