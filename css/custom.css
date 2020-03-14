@@ -78,6 +78,9 @@ Extra large   ≥1200px   .col-xl-
 	color:black;
 	}
 	
+.bazznav{
+		padding-right:20px;
+	}
 .about{
 	padding-left:20px; 	
 	}
@@ -160,7 +163,7 @@ body {
     font-size:18px;
 	line-height: 21px;
 	color:black;
-	padding-right:20px;
+	
 	}
 
 .navbar1{
