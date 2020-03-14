@@ -1229,6 +1229,10 @@ body {
     cursor: pointer;
 }	
 
+.li {
+	float:left;
+	}
+	
 .navbar{
     font-family:'Moderat-Regular';
     font-size:16px;
