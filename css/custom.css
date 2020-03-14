@@ -146,12 +146,6 @@ body {
 	color:black;
 	padding-right:30px;}
 
-.navbar1{
-    font-family:'Moderat-Regular';
-    font-size:18px;
-	line-height: 21px;
-	color:black;
-	}
 
 .project-nav {
 	position:fixed;
@@ -1216,7 +1210,7 @@ body {
     font-size:16px;
 	line-height: 21px;
 	color:black;
-	padding-left:60px; 
+	padding-left:80px; 
 	}
 		
 .other{
