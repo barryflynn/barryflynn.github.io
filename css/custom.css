@@ -1236,13 +1236,13 @@ body {
 	line-height: 21px;
 	color:black;
 	padding-left:15px;}
-
-.navbar1{
-    font-family:'Moderat-Regular';
+	
+.navbar-nav{
+    padding-right:600px;
+	font-family:'Moderat-Regular';
     font-size:16px;
 	line-height: 21px;
 	color:black;
-	padding-left:90px;
 	}
 	
 .about{
