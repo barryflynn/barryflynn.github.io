@@ -71,7 +71,7 @@ Extra large   ≥1200px   .col-xl-
 @media screen and (max-width: 1800px){
 
 .navbar-nav{
-    padding-right:600px;
+  
 	font-family:'Moderat-Regular';
     font-size:18px;
 	line-height: 21px;
@@ -80,15 +80,15 @@ Extra large   ≥1200px   .col-xl-
 	
 
 .about{
-	padding-left:80px; 	
+	padding-left:90px; 	
 	}
 	
 .photo{
-	padding-left:60px; 	
+	padding-left:65px; 	
 	}
 	
 .archive{
-	padding-left:40px; 	
+	padding-left:50px; 	
 	}
 	
 .other{
