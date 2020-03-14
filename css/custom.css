@@ -1203,14 +1203,15 @@ body {
     font-family:'Moderat-Regular';
     font-size:16px;
 	line-height: 21px;
-	color:black;}
+	color:black;
+	margin-right:30px;}
 	
 .navbar-nav{
     font-family:'Moderat-Regular';
     font-size:16px;
 	line-height: 21px;
 	color:black;
-	padding-left:100px; 
+	padding-left:150px; 
 	}
 		
 .other{
