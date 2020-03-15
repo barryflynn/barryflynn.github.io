@@ -1158,6 +1158,15 @@ body {
 .li {
 	float:left;
 	}
+
+.about{
+	margin-left:100px;	
+	}
+	
+.gallery{
+	margin-left:150px;	
+	}
+	
 	
 .archive{
 	margin-left:200px;	
