@@ -894,6 +894,13 @@ color: black;}
 	
 }
 
+@media screen and (max-width: 1440px){
+	
+.archive-dates{
+		display:none;
+	}
+}
+
 @media screen and (max-width: 1200px){
 	
 .row {
@@ -1137,6 +1144,13 @@ body {
 	padding-left:925px;
 	padding-top:10px;}
 		
+}
+
+@media screen and (max-width: 992px){
+	
+.archive-dates{
+		display:none;
+	}
 }
 
 @media screen and (max-width: 576px) {
