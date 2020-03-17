@@ -122,10 +122,6 @@ body {
     font-size: 20px;
     line-height: 25px;
     -webkit-font-smoothing: antialiased;}
-
-.spacenavhome{ 
-	height:-50px;
-	}
 	
 .spaceposter{
 		height:10px;
@@ -255,10 +251,12 @@ br {
 	padding-left: 75px;
 }
 	
+/*
 .homevideo{
     padding-top:10px;
 
 }
+*/
 	
 .archive-dates{
 
