@@ -1152,7 +1152,8 @@ body {
     font-family:'Moderat-Regular';
     font-size:16px;
 	line-height: 21px;
-	color:black;}
+	color:black;
+	margin-left:-5px}
 	
 .navbar-nav{
     font-family:'Moderat-Regular';
