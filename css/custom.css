@@ -990,14 +990,7 @@ color: black;}
 .bf{ 
 	display: inline-block; 
 	}
-		  
-/*
-.spacenavhome{ 
-	height: 50px;
-	background-color:white;
-	}
-*/
-	
+		  	
 .short-text{
 		display:none;
 	}
@@ -1188,7 +1181,7 @@ body {
 .media{
     font-family:'Moderat-Regular';
     font-size:18px;
-	line-height:0.5px;
+	line-height:0.4px;
 	color:black;
 	padding-left: 20px;
 	padding-top:24px;
