@@ -194,7 +194,7 @@ element.style {
 }
 
 .v1vids{
-	width: 1460px;
+	background-color: black;
 }
 
 .padding-100 {
@@ -1119,10 +1119,6 @@ body {
 .footerspace{
 		display:none;
 	}
-	
-.v1vids{
-	width:1200px;
-}
 
 .archivemedia{
     font-family:'Moderat-Regular';
@@ -1368,12 +1364,6 @@ padding-right: 50px;
 .homevid{
 		padding-top:390px;
 	}
-
-.v1vids{
-	width: 500px;
-	height: 600px;
-	background-color: black;	
-}
 
 .v1vid2{
 	padding-top:970px;
