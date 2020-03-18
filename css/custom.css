@@ -650,6 +650,13 @@ br {
   width: 33.33%
  
 }
+	
+.column1 {
+  float: left;
+  width: 50%;
+  width: 50%;
+ 
+}
 
 .media{
     font-family:'Moderat-Regular';
