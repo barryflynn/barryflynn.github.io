@@ -656,10 +656,12 @@ br {
   margin-top:60px;
   margin-bottom:60px;
   width:50%;
-  
-   
- 
-}
+  }
+	
+.visualvids{
+		
+	margin-right: 200px;	
+	}
 
 .media{
     font-family:'Moderat-Regular';
