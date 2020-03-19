@@ -646,17 +646,11 @@ br {
 
 .column {
   float: left;
-  width: 33.33%;
-  width: 33.33%
- 
-}
+  width: 33.33%;}
 	
-.column1 {
+.column1{
   float: left;
-  margin-top:60px;
-  margin-bottom:60px;
-  width:60%;
-  height:auto;
+  width: 50%;
   }
 	
 .vid1{
