@@ -645,11 +645,11 @@ br {
     padding-right: 15px;}
 
 .column {
-  float: left;
+  float:left;
   width: 33.33%;}
 	
 .column1 {
-  float: right;
+  float:right;
   width: 70%;}	
 
 
