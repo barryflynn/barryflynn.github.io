@@ -648,12 +648,9 @@ br {
   float: left;
   width: 33.33%;}
 	
-.column1{
- 
-  width: 60%;
-  margin-right:400px;
-  }
-	
+.column1 {
+  float: left;
+  width: 50%;}	
 
 
 .media{
