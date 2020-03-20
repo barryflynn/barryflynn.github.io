@@ -654,8 +654,8 @@ br {
     display: inline-block;
     zoom: 1;
     *display: inline;
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     margin: 0 10px 10px 0;
 }
 
