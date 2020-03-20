@@ -651,7 +651,13 @@ br {
 .column1 {
   
   width: 70%;
-	margin-left: -200px}	
+	margin-left: -200px}
+	
+	
+..column1 {
+  
+  
+	margin-left: -400px}
 
 
 .media{
