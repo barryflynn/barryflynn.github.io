@@ -644,6 +644,12 @@ br {
     padding-left: 15px;
     padding-right: 15px;}
 	
+#videoal {
+    margin-left:100px;
+	margin-top:100px;
+	margin-bottom:100px;
+}
+	
 #videoal div.video {
     display: inline-block;
     zoom: 1;
