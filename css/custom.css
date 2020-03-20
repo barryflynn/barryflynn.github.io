@@ -643,12 +643,20 @@ br {
     margin-top:-16px;
     padding-left: 15px;
     padding-right: 15px;}
-
-.column {
-  float:left;
-  width: 33.33%;}
 	
+#videoal div.video {
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+    width: 200px;
+    height: 200px;
+    margin: 0 10px 10px 0;
+}
 
+#videoal div.video video {
+    width: 100%;
+    height: 100%;
+}
 
 .media{
     font-family:'Moderat-Regular';
