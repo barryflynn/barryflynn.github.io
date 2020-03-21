@@ -648,16 +648,10 @@ br {
   float:left;
   width: 33.33%;}
 	
+
 .column1 {
-  
-  width: 70%;
-	margin-left: -200px}
-	
-	
-..column1 {
-  
-  
-	margin-left: -200px}
+  float:left;
+  width: 40%;}
 
 
 .media{
