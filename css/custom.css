@@ -652,12 +652,12 @@ br {
 .column1 {
   float:left;
   width:32%;
-  margin-left:20px;
+  margin-left:30px;
   }
 
 .bythree{
-	margin-top:20px;
-	margin-bottom:20px;
+	margin-top:30px;
+	margin-bottom:30px;
 	margin-left:20px;
     margin-right:20px;
 	}
