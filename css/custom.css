@@ -647,10 +647,12 @@ br {
 .column {
   float:left;
   width: 33.33%;}
+
 	
 
 .column1 {
   width:30%;
+  margin-right:25px;
   }
 
 .bythree{
