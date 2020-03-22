@@ -652,15 +652,14 @@ br {
   width:30%;
   }
 	
-.column2 {
-  width:30%;
-  padding-right:50px; 
-  }
-
 .bythree{
 	margin-top:65px;
 	margin-bottom:65px;
 	margin-left:23px;
+	}
+	
+	.bytwo{
+		padding-left: 50px;
 	}
 	
 .media{
