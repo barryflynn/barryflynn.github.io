@@ -261,7 +261,6 @@ br {
   color:black;
   line-height:200px;
 }	
-
 	
 .bird img {
     display: block;
@@ -651,7 +650,7 @@ br {
 
 .column1 {
   width:30%;
-  margin-left:37px;
+  margin-left:35px;
   }
 	
 .bythree{
@@ -897,8 +896,6 @@ color: black;}
 	
 }
 
-
-
 @media screen and (max-width: 1200px){
 	
 .bf{
@@ -1016,12 +1013,11 @@ body {
 .bythree{
 	margin-top:65px;
 	margin-bottom:65px;
-	margin-left:26px;
 	}
 	
-.column2 {
+.column1 {
   width:30%;
-  padding-right:50px; 
+  margin-left:35px;
   }
 	
 .project-nav:active {
