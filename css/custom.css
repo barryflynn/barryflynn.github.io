@@ -251,7 +251,6 @@ br {
 	padding-left: 75px;
 }
 	
-/*
 .archive-dates{
 
   padding-bottom:30px;
@@ -262,11 +261,7 @@ br {
   color:black;
   line-height:200px;
 }	
-*/
-	
-	.archive-dates{
-		display:none;
-	}
+
 	
 .bird img {
     display: block;
@@ -656,7 +651,7 @@ br {
 
 .column1 {
   width:30%;
-  margin-left:23px;
+  margin-left:50px;
   }
 	
 .bythree{
