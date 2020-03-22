@@ -650,12 +650,13 @@ br {
 
 .column1 {
   width:30%;
+  margin-left:23px;
   }
 	
 .bythree{
 	margin-top:65px;
 	margin-bottom:65px;
-	margin-left:23px;
+	
 	}
 	
 .media{
