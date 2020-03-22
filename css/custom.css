@@ -651,11 +651,16 @@ br {
 .column1 {
   width:30%;
   }
+	
+.column2 {
+  width:30%;
+  padding-right:50px; 
+  }
 
 .bythree{
 	margin-top:65px;
 	margin-bottom:65px;
-	margin-left:22px;
+	margin-left:23px;
 	}
 	
 .media{
@@ -1020,8 +1025,13 @@ body {
 .bythree{
 	margin-top:65px;
 	margin-bottom:65px;
-	margin-left:25px;
+	margin-left:26px;
 	}
+	
+.column2 {
+  width:30%;
+  padding-right:50px; 
+  }
 	
 .project-nav:active {
 /*    border-bottom: 3px solid transparent;*/
