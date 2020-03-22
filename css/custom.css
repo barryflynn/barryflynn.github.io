@@ -1023,6 +1023,12 @@ body {
     line-height: 25px;
     -webkit-font-smoothing: antialiased;}
 	
+.bythree{
+	margin-top:65px;
+	margin-bottom:65px;
+	margin-left:130px;
+	}
+	
 .project-nav:active {
 /*    border-bottom: 3px solid transparent;*/
     color: white;
