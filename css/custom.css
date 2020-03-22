@@ -909,9 +909,7 @@ color: black;}
 	
 }
 
-@media screen and (max-width: 1440px){
 
-}
 
 @media screen and (max-width: 1200px){
 	
@@ -1166,6 +1164,10 @@ body {
 .archive-dates{
 		display:none;
 	}
+	
+.bythree{
+	display:none;
+	}
 }
 
 @media screen and (max-width: 576px) {
@@ -1280,6 +1282,10 @@ body {
 .spacenavhome{
 	height:40px;
 	background-color:white;}
+	
+.bythree{
+	display:none;
+	}
 			
 .medium-text { 
 	display:none; 
