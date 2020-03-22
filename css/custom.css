@@ -911,6 +911,10 @@ color: black;}
 
 @media screen and (max-width: 1200px){
 	
+.bf{
+		display:none;
+	}
+	
 .row {
     display: -webkit-box;
     display: -ms-flexbox;
