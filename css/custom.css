@@ -650,7 +650,7 @@ br {
 
 .column1 {
   width:30%;
-  margin-left:35px;
+  margin-left:37px;
   }
 	
 .bythree{
@@ -993,10 +993,6 @@ color: black;}
 .media2{
 		display:none;
 	}
-	
-.bf{ 
-	display: inline-block; 
-	}
 		  	
 .short-text{
 		display:none;
@@ -1017,7 +1013,7 @@ body {
 	
 .column1 {
   width:30%;
-  margin-left:35px;
+  margin-left:30px;
   }
 	
 .project-nav:active {
