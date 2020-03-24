@@ -1413,6 +1413,8 @@ padding-right: 50px;
 		letter-spacing: 0.2em
 	}
 	
-
+.bf{
+		display: inline-block;
+	}
 	
 }		
