@@ -161,7 +161,9 @@ body {
 	
 .white {
     background-color: white;
-	margin-top:-16px;}
+	margin-top:-16px;
+	margin-left:5px;}
+	
 	
 .space10 {
     height: 8px;
