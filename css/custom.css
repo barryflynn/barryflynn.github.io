@@ -69,6 +69,11 @@ Extra large   ≥1200px   .col-xl-
 
 
 @media screen and (max-width: 1800px){
+	
+.whitebar{
+		height:70px;
+		background-color:white;
+	}
 
 .navbar-nav{
     font-family:'Moderat-Light';
@@ -163,11 +168,11 @@ body {
     background-color: white;
 	margin-top:-16px;
 	margin-right:2px;}
-	
+		
 .whitebox {
-    padding-left:9px;}
-	
-	
+    padding-left:9px;
+	}
+		
 .space10 {
     height: 8px;
 }
@@ -178,7 +183,7 @@ body {
 
 .space12 {
     height:110px;
-}
+	}
 
 .space11 {
     height: 40px;
