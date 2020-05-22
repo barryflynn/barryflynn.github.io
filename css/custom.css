@@ -677,7 +677,8 @@ body {
     color: white;
     mix-blend-mode: difference;
     top: 15px;
-    cursor: pointer;}
+    cursor: pointer;
+	margin-right:10px}
 
 .push{
 	padding-left:20px;
