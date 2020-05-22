@@ -401,11 +401,11 @@ a
 .content-details p{
   font-family:"Moderat-Light";
   font-size:16px;
-  line-height: 50px;
+  line-height: 100px;
   color:black;
   font-weight: 500;
   letter-spacing: 0.10em;
-  margin-bottom: 2.8em;
+  margin-bottom: 1.8em;
   text-transform:lowercase;}
 
 .fadeIn-bottom{
