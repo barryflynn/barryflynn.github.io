@@ -80,7 +80,8 @@ Extra large   ≥1200px   .col-xl-
     font-family:'Moderat-Light';
     font-size:16px;
 	line-height: 21px;
-	color:black; 
+	color:black;
+	margin-right:-20px;
 	}
 		
 .posters{
@@ -159,8 +160,7 @@ body {
     color:white;
     mix-blend-mode: difference;
     top: 15px;
-    cursor: pointer;
-	margin-right:-20px;}
+    cursor: pointer;}
 	
 .li {
 	float:left;
