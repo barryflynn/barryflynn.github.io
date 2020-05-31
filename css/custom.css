@@ -686,13 +686,13 @@ body {
 }
 
 .navbar{
-    font-family:'Moderat-Regular';
+    font-family:'Moderat-Light';
     font-size:16px;
 	line-height: 21px;
 	color:black;}
 	
 .navbar-nav{
-    font-family:'Moderat-Regular';
+    font-family:'Moderat-Light';
     font-size:16px;
 	line-height: 21px;
 	color:black;
@@ -709,19 +709,19 @@ body {
 	margin-right:10px}
 
 .about{
-	margin-left:100px;	
+	margin-left:600px;	
 	}
 	
 .gallery{
-	margin-left:190px;	
+	margin-left:790px;	
 	}
 		
 .archive{
-	margin-left:280px;	
+	margin-left:880px;	
 	}
 	
 .other{
-	margin-left:370px;	
+	margin-left:970px;	
 	}
 			
 .whitebody{
