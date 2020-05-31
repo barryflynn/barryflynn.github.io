@@ -708,16 +708,20 @@ body {
     cursor: pointer;
 	margin-right:10px}
 
-.push{
-	padding-left:20px;
+.about{
+	margin-left:100px;	
+	}
+	
+.gallery{
+	margin-left:190px;	
 	}
 		
-.pushphoto{
-	padding-left:135px;
-	}	
+.archive{
+	margin-left:280px;	
+	}
 	
-.pusharchive{
-	padding-left:210px;
+.other{
+	margin-left:370px;	
 	}
 			
 .whitebody{
