@@ -75,7 +75,6 @@ Extra large   ≥1200px   .col-xl-
 		background-color:white;
 	}
 	
-
 .navbar-nav{
     font-family:'Moderat-Regular';
     font-size:16px;
@@ -83,8 +82,7 @@ Extra large   ≥1200px   .col-xl-
 	color:black;
 	margin-right:-40px;
 	}
-	
-		
+			
 .posters{
 		padding-left:30px;
 	    padding-right: 20px;
@@ -163,7 +161,7 @@ body {
 }
 
 .navbar{
-    font-family:'Moderat-Light';	
+    font-family:'Moderat-Regular';	
     font-size:16px;
 	line-height: 21px;
 	color:black;
