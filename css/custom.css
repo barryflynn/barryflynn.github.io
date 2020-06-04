@@ -304,17 +304,17 @@ br {
 	
 .media{
     font-family:'Moderat-Regular';
-    font-size:18px;
-	line-height: 23px;
-	color:darkgrey;
+    font-size:16px;
+	line-height: 21px;
+	color:black;
 	padding-left: 10px;
 	}
 
 .media1{
     font-family:'Moderat-Regular';
-    font-size:18px;
-	line-height: 23px; 
-	color:darkgrey;
+    font-size:16px;
+	line-height: 21px; 
+	color:black;
 	padding-left:100px;
     color: rgba(0,0,0,0.3) !important;
 	color:darkgrey;
