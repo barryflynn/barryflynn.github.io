@@ -757,12 +757,14 @@ body {
 	}
 	
 .list-unstyled{
-		list-style: none;
+	font-family:'Moderat-Regular';
+    font-size:16px;
+    list-style:none;
+	padding-left:100px;
+	color:black;
 	}
 	
-.medialist{
-	padding-left:30px;
-		}
+
 
 	.move{
     margin-top:-105px;
