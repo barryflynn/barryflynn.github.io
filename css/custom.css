@@ -763,6 +763,8 @@ body {
 a:link, a:visited {
     color: #000000 !important;
     text-decoration: none;
+	font-family:'Moderat-Regular';
+    font-size:16px;
 }
 	
 ul {
