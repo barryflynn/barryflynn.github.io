@@ -757,10 +757,7 @@ body {
 	}
 	
 .listunstyled{
-	font-family:'Moderat-Regular';
-    font-size:16px;
-	padding-left:100px;
-	color:black;
+	list-style: none;
 	}
 	
 .move{
