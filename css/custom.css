@@ -756,16 +756,14 @@ body {
 		display:none;
 	}
 	
-.ul{
+.listunstyled{
 	font-family:'Moderat-Regular';
     font-size:16px;
 	padding-left:100px;
 	color:black;
 	}
 	
-
-
-	.move{
+.move{
     margin-top:-105px;
 	padding-left: 150px;
     } 
