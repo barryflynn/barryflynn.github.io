@@ -760,6 +760,11 @@ body {
 	list-style: none;
 	}
 	
+a:link, a:visited {
+    color: #000000 !important;
+    text-decoration: none;
+}
+	
 ul {
     display: block;
     list-style-type: disc;
