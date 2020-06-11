@@ -307,14 +307,17 @@ br {
     font-size:16px;
 	line-height: 21px;
 	color:black;
-	padding-left: 10px;
-	
-	}
+	padding-left: 10px;}
 
+	
+.spacehome{	
+	height:-4px;
+	}
+	
 .media1{
     font-family:'Moderat-Regular';
     font-size:16px;
-	line-height: 18px;
+	line-height: 21px;
 	color:black;
 	padding-left:100px;
 	color:black;
