@@ -337,8 +337,10 @@ br {
     font-family:'Moderat-Regular';
     font-size:16px;
 	line-height: 23px;
+	color: rgba(0,0,0,0.3) !important;
 	color:black;
-	padding-left:1025px;}
+	padding-left:1080px;}
+/*
 	
 .backup{
     font-family:'Moderat-Regular';
@@ -350,6 +352,7 @@ br {
     cursor: pointer;
 	z-index:100;
 	}
+*/
 
 .whitebody{
 		background-color: white;
