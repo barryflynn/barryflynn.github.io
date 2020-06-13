@@ -701,6 +701,10 @@ body {
     top: 15px;
     cursor: pointer;
 	margin-right:10px}
+	
+	.twelvenav{
+		margin-right:200px;
+	}
 
 .about{
 	margin-left:550px;	
