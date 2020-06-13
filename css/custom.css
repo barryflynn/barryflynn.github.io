@@ -332,7 +332,6 @@ br {
 		margin-top:-3px;
 	}
 
-/*
 .archivemedia{
     font-family:'Moderat-Regular';
     font-size:16px;
@@ -340,7 +339,6 @@ br {
 	color: rgba(0,0,0,0.3) !important;
 	color:black;
 	padding-left:1050px;}
-*/
 	
 .backup{
     font-family:'Moderat-Regular';
@@ -351,7 +349,6 @@ br {
     text-align: right !important;
     cursor: pointer;
 	z-index:100;
-	padding-left:1065px;
 	}
 
 .whitebody{
