@@ -343,22 +343,18 @@ br {
 	line-height: 23px;
 	color:#000000 !important;
     color:black;
+	padding-left:1060px; }
+	
+.archivemedia1{
+    font-family:'Moderat-Regular';
+    font-size:16px;
+	line-height: 23px;
+	color:#000000 !important;
+    color:black;
 	padding-left:1060px;
 	margin-top:40px; }
 	
-/*
-.backup{
-    font-family:'Moderat-Regular';
-    font-size:16px;
-	padding-left:100px;
-    color: rgba(0,0,0,0.3) !important;
-	color:black;
-    text-align: right !important;
-    cursor: pointer;
-	z-index:100;
-	}
-*/
-	
+
 .footsie{
 		margin-top:50px;
 	}
@@ -840,8 +836,10 @@ ul {
 	color:black;
 	padding-left:825px;
 	margin-top:40px;}
+		}
+
+
 		
-}
 
 @media screen and (max-width: 992px){
 	
