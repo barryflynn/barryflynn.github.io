@@ -337,8 +337,8 @@ br {
     font-family:'Moderat-Regular';
     font-size:16px;
 	line-height: 23px;
-	color: rgba(0,0,0,0.3) !important;
-	color:black;
+	color:#000000 !important;
+    color:black;
 	padding-left:1060px;
 	margin-top:40px; }
 	
