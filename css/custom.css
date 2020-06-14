@@ -352,6 +352,10 @@ br {
     cursor: pointer;
 	z-index:100;
 	}
+	
+.footsie{
+		margin-top:50px;
+	}
 
 .whitebody{
 		background-color: white;
