@@ -343,14 +343,6 @@ br {
 	line-height: 23px;
 	color:#000000 !important;
     color:black;
-	padding-left:1060px; }
-	
-.archivemedia1{
-    font-family:'Moderat-Regular';
-    font-size:16px;
-	line-height: 23px;
-	color:#000000 !important;
-    color:black;
 	padding-left:1060px;
 	margin-top:40px; }
 	
@@ -722,21 +714,23 @@ body {
 	
 
 
+/*
 .about{
-	margin-left:150px;	
+	margin-left:50px;	
 	}
 	
 .gallery{
-	margin-left:250px;	
+	margin-left:50px;	
 	}
 		
 .archive{
-	margin-left:330px;	
+	margin-left:30px;	
 	}
 	
 .other{
-	margin-left:420px;	
+	margin-left:20px;	
 	}
+*/
 			
 .whitebody{
 		background-color: white;
