@@ -338,7 +338,8 @@ br {
 	line-height: 23px;
 	color: rgba(0,0,0,0.3) !important;
 	color:black;
-	padding-left:1050px;}
+	padding-left:1060px;
+	margin-top:50px; }
 	
 .backup{
     font-family:'Moderat-Regular';
