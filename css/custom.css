@@ -105,6 +105,10 @@ Extra large   ≥1200px   .col-xl-
     margin-right: auto;
     margin-left: auto;
 }
+	
+.projectmargin{
+		margin-bottom:30px;
+	}
 
 .medium-text{
 	display:none;
