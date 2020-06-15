@@ -346,9 +346,13 @@ br {
 	padding-left:1060px;
 	margin-top:10px; }
 	
+.backup1{
+		display:inherit;
+	}
+	
 
 .footsie{
-		padding-top:50px;
+		padding-top:35px;
 	}
 
 .whitebody{
@@ -820,7 +824,7 @@ body {
 		}
 
 .backup1{
-	display: none;
+	display:none;
 }
 		
 
