@@ -349,6 +349,10 @@ br {
 	padding-left:1060px;
 	margin-top:10px; }
 	
+.backup1{
+		display: none;
+	}
+	
 .footsie{
 		padding-top:30px;
 	}
