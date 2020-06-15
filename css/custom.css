@@ -702,7 +702,8 @@ body {
     font-size:16px;
 	line-height: 21px;
 	color:black;
-	margin-left:160px; 
+	margin-right:1000px;
+
 	}
 	
 .project-nav {
@@ -716,6 +717,7 @@ body {
 	
 
 
+/*
 .about{
 	padding-right:1150px;	
 	}
@@ -731,6 +733,7 @@ body {
 .other{
 	padding-right:1420px;	
 	}
+*/
 			
 .whitebody{
 		background-color: white;
