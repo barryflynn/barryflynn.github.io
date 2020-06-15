@@ -227,7 +227,10 @@ element.style {
 .v1vids{
 	background-color: black;
 }
-
+	
+.skinhunger{
+		background-color:black;
+	}
 .padding-100 {
     padding-top: 20px;
 	padding-bottom: 80px;
