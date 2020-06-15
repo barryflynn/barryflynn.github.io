@@ -715,19 +715,19 @@ body {
 
 
 .about{
-	padding-left:150px;	
+	margin-right:1150px;	
 	}
 	
 .gallery{
-	padding-left:250px;	
+	margin-right:1250px;	
 	}
 		
 .archive{
-	padding-left:330px;	
+	margin-right:1330px;	
 	}
 	
 .other{
-	padding-left:420px;	
+	margin-right:1420px;	
 	}
 			
 .whitebody{
@@ -819,7 +819,9 @@ body {
 	margin-top:10px;}
 		}
 
-
+.backup1{
+	display: none;
+}
 		
 
 @media screen and (max-width: 992px){
