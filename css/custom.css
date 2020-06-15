@@ -644,10 +644,6 @@ color: black;}
   left: 80%;
 }
 	
-.archive-dates{
-		display:none;
-	}
-
 .homenav12{
 		display:none;
 	}
@@ -706,7 +702,7 @@ body {
     font-size:16px;
 	line-height: 21px;
 	color:black;
-	margin-left:60px; 
+	margin-left:160px; 
 	}
 	
 .project-nav {
