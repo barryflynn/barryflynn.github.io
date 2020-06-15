@@ -821,11 +821,14 @@ body {
 	color:black;
 	padding-left:825px;
 	margin-top:10px;}
-		}
-
+	
 .backup1{
 	display:none;
-}
+}	
+	
+		}
+
+
 		
 
 @media screen and (max-width: 992px){
