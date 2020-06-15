@@ -715,19 +715,19 @@ body {
 
 
 .about{
-	margin-right:450px;	
+	margin-left:150px;	
 	}
 	
 .gallery{
-	margin-right:350px;	
+	margin-left:250px;	
 	}
 		
 .archive{
-	margin-right:330px;	
+	margin-left:330px;	
 	}
 	
 .other{
-	margin-right:120px;	
+	margin-left:420px;	
 	}
 			
 .whitebody{
@@ -780,6 +780,7 @@ body {
     line-height: 1.25em !important;
 }
 	
+/*
 ul {
     display: block;
     list-style-type: disc;
@@ -789,6 +790,7 @@ ul {
     margin-inline-end: 0px;
     padding-inline-start: 40px;
 }
+*/
 	
 .move{
     margin-top:-105px;
