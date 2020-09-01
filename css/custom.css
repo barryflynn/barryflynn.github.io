@@ -431,6 +431,7 @@ a
   font-weight: 500;
   letter-spacing: 0.10em;
   margin-bottom: 2.4em;
+	
   
 	}
 	
@@ -442,7 +443,9 @@ a
   font-weight: 500;
   letter-spacing: 0.10em;
   margin-bottom: 2.1em;
-  text-transform:lowercase;}
+  margin-right: 2em;
+  text-transform:lowercase;
+}
 
 .fadeIn-bottom{
   top: 80%;
