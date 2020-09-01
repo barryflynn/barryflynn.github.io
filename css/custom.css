@@ -430,7 +430,7 @@ a
   color:black;
   font-weight: 500;
   letter-spacing: 0.10em;
-  margin-bottom: 2.4em;
+  margin-bottom: 2.2em;
 	
   
 	}
@@ -443,7 +443,7 @@ a
   font-weight: 500;
   letter-spacing: 0.10em;
   margin-bottom: 2.1em;
-  margin-right: 2em;
+  padding-right: 20px;
   text-transform:lowercase;
 }
 
